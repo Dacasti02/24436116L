@@ -1,0 +1,17 @@
+12/05/23 17:57
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	#Archivos	
+Total:            	     1284	    9421	                    60475	                    66689	        4	
+Pendientes:       	     1284	    9421	                    60475	                    66689	        4	
+Únicos:           	      608	    6953	                    38668	                    44067	        4	
+Pendientes únicos:	      608	    6953	                    38668	                    44067	        4	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo                                                                                            	Total de segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Total palabras	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Total caracteres (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Total Caracteres (con espacios)	Caracteres pendientes (con espacios)	Caracteres únicos (con espacios)	Caracteres únicos pendientes (con espacios)	
+Resident Evil 4 (Remake) Review - Refinement, Not Reinvention - Game Informer.htm                            	               379	                 379	             284	                        284	          2527	               2527	           2164	                      2164	                          16708	                               16708	                           13479	                                      13479	                          18334	                               18334	                           14984	                                      14984	
+Resident Evil 4 Review - IGN.html                                                                            	                79	                  79	              53	                         53	           356	                356	            231	                       231	                           2687	                                2687	                            1732	                                       1732	                           2778	                                2778	                            1790	                                       1790	
+Resident Evil 4's Sound Director And Composer Break Down The Remake's Haunting Soundtrack - Game Informer.htm	               460	                 460	             180	                        180	          4213	               4213	           3193	                      3193	                          24331	                               24331	                           15320	                                      15320	                          27515	                               27515	                           18179	                                      18179	
+Resident Evil Village Review - Resident Evil Village Review – Painting The Ghost Town Red - Game Informer.htm	               366	                 366	              91	                         91	          2325	               2325	           1365	                      1365	                          16749	                               16749	                            8137	                                       8137	                          18062	                               18062	                            9114	                                       9114	
