@@ -115,6 +115,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Leon's nightmare takes him through the remote village, into the bowels of a baroque castle hoarded over by a ghoulish Napoleon wannabe, and then finally onto the shores of a military stronghold.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T135756Z" creationid="david" creationdate="20230516T135756Z">
+        <seg>La pesadilla de Leon lo lleva a través del remoto pueblo, hasta las entrañas de un castillo barroco dominado por un siniestro aspirante a Napoleón, y finalmente a las costas de una fortaleza militar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Let's start with the former: unequivocally, if you are a fan of Resident Evil 4, you must play the remake.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T131633Z" creationid="david" creationdate="20230516T131633Z">
@@ -183,6 +191,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T135157Z" creationid="david" creationdate="20230516T135157Z">
         <seg>Juegas como Leon Kennedy, ahora un agente especial del presidente de Estados Unidos enviado a un remoto pueblo español en busca de la hija desaparecida del presidente, Ashley Graham.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You're soon confronted by scores of angry locals infected by a parasite, Las Plagas, making them easy for the game's main antagonist to control without completely losing their mental faculties.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T135722Z" creationid="david" creationdate="20230516T135722Z">
+        <seg>Pronto te enfrentas a multitudes de lugareños enfurecidos infectados por un parásito llamado Las Plagas, lo que facilita al antagonista principal del juego controlarlos sin que pierdan por completo sus facultades mentales.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
