@@ -40,8 +40,8 @@
       <tuv lang="en">
         <seg>And so, while I think it can show you why Resident Evil 4 was fun, goofy, and endearing, if you're someone interested in just why this old game has such an enduring legacy – especially one strong enough to warrant such a massively expensive remake – your best bet is to still play the original, to try and put your mind in a pre-Resident Evil 4 world to understand how that game could change everything.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T142558Z" creationid="david" creationdate="20230516T142558Z">
-        <seg>Y así, aunque creo que puede mostrarte por qué Resident Evil 4 era divertido, extravagante y entrañable, si eres alguien interesado en descubrir por qué este viejo juego tiene un legado perdurable, especialmente lo suficientemente sólido como para justificar un remake tan costoso, tu mejor opción sigue siendo jugar el original, intentar ponerte en la mentalidad de un mundo previo a Resident Evil 4 para entender cómo ese juego podría cambiarlo todo.</seg>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T142715Z" creationid="david" creationdate="20230516T142558Z">
+        <seg>Y así, aunque creo que puede mostrarnos por qué Resident Evil 4 era divertido, extravagante y entrañable, si estamos interesados en descubrir por qué este viejo juego tiene un legado perdurable, especialmente lo suficientemente sólido como para justificar una nueva versión tan costosa, la mejor opción sigue siendo jugar el original, intentar ponernos en la mentalidad de un mundo previo a Resident Evil 4 para entender cómo ese juego lo cambió todo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -251,6 +251,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Or better, you can watch a few minutes of a Let's Play or read one of the thousands of articles about it.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T142818Z" creationid="david" creationdate="20230516T142818Z">
+        <seg>O mejor, podemos ver unos minutos de un gameplay o leer uno de los cientos de artículo al respecto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Perhaps the most elbow grease went into rewriting the game's story, though the narrative beats are all the same.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T134944Z" creationid="david" creationdate="20230516T134944Z">
@@ -335,6 +343,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T134507Z" creationid="david" creationdate="20230516T134507Z">
         <seg>El hecho de que la siguiente habitación pudiera ser una completa remezcla o reinterpretación de un área diferente me mantuvo alerta, como si conociera el tema del cuadro, pero todos los detalles estuvieran en nuevos colores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That will make playing the remake a much richer experience; you can see decades of lessons learned throughout the game industry about how to make a third-person action game thrilling, fun, and mechanically effective reapplied to the source material.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T143020Z" creationid="david" creationdate="20230516T143020Z">
+        <seg>Eso hará que jugar la nueva versión sea una experiencia mucho más enriquecedora; podremos ver décadas de lecciones aprendidas en la industria de los videojuegos sobre cómo hacer que un juego de acción en tercera persona sea emocionante, divertido y mecánicamente efectivo, aplicadas nuevamente al material original.</seg>
       </tuv>
     </tu>
     <tu>
