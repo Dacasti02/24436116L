@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Suzuki:&lt;/s0&gt; The fights with the enemies in the remake of the RE4 are very interactive.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T184207Z" creationid="mariaarpaperez" creationdate="20230516T184207Z">
+        <seg>&lt;s0&gt;Suzuki:&lt;/s0&gt; Los combates con los enemigos en la nueva versión de RE4 son muy interactivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Suzuki:&lt;/s0&gt; There's no song that we used as-is from the original.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175529Z" creationid="mariaarpaperez" creationdate="20230516T175529Z">
@@ -655,6 +663,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T180539Z" creationid="mariaarpaperez" creationdate="20230516T180539Z">
         <seg>Si estás rodeado de enemigos y empiezas a oír ese sonido, entonces es probable que en el juego corras gran peligro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a lot of games, it can be linear; you will fight an enemy here, and when you beat it, you proceed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T184348Z" creationid="mariaarpaperez" creationdate="20230516T184348Z">
+        <seg>En muchos juegos, puede ser lineal; lucharás contra un enemigo aquí, y cuando lo venzas, podrás avanzar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a lot of instances, depending on the player's behavior, it's not possible to predict where the player will fight with the enemy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T184235Z" creationid="mariaarpaperez" creationdate="20230516T184235Z">
+        <seg>En muchos casos, dependiendo del comportamiento del jugador, no es posible predecir dónde luchará con el enemigo.</seg>
       </tuv>
     </tu>
     <tu>
