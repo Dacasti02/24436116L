@@ -169,6 +169,14 @@
         <seg>Hay dos públicos totalmente distintos para el remake de Resident Evil 4: los que han jugado al juego original, quizá varias o incluso docenas de veces en los últimos 18 años, y las personas que nunca lo han jugado, pero quieren saber de qué va todo este alboroto.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You play as Leon Kennedy, now a special agent of the United States president sent to a remote Spanish village in search of the president's missing daughter, Ashley Graham.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T135157Z" creationid="david" creationdate="20230516T135157Z">
+        <seg>Juegas como Leon Kennedy, ahora un agente especial del presidente de Estados Unidos enviado a un remoto pueblo español en busca de la hija desaparecida del presidente, Ashley Graham.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
