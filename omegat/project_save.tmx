@@ -6,10 +6,42 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Also on&lt;/s0&gt; Xbox Series X/S, PlayStation VR2, PlayStation 4, PC</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T143714Z" creationid="david" creationdate="20230516T143714Z">
+        <seg>&lt;s0&gt;También  en&lt;/s0&gt; Xbox Series X/S, PlayStation VR2, PlayStation 4, PC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Publisher&lt;/s0&gt; Capcom</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T143756Z" creationid="david" creationdate="20230516T143756Z">
+        <seg>&lt;s0&gt;&lt;/s0&gt; Capcom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Reviewed on&lt;/s0&gt; PlayStation 5</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T143647Z" creationid="david" creationdate="20230516T143647Z">
+        <seg>&lt;s0&gt;Analizado en&lt;/s0&gt; PlayStation 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Across the board, the cast has received an overhaul, making the protagonists more likable, the enemies more menacing, and the twisting threads of the plot somewhat more coherent – all the while never losing what made the original story so fun in the first place.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T140235Z" creationid="david" creationdate="20230516T140235Z">
         <seg>En general, todo el elenco ha sido renovado, haciendo que los protagonistas sean más simpáticos, los enemigos más amenazantes y los hilos entrelazados del argumento algo más coherentes, sin perder nunca lo que hacía que la historia original fuera tan divertida en primer lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All Rights Reserved.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T143833Z" creationid="david" creationdate="20230516T143833Z">
+        <seg>Todos los derechos reservados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -335,6 +367,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T141127Z" creationid="david" creationdate="20230516T141127Z">
         <seg>En lugar de los ángulos de cámara fijos de sus predecesores, el juego original colocaba la cámara detrás de la espalda de Leon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resident Evil 4 (Remake) Review</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T143843Z" creationid="david" creationdate="20230516T143843Z">
+        <seg>Resident Evil 4 (Remake) Análisis</seg>
       </tuv>
     </tu>
     <tu>
