@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Across the board, the cast has received an overhaul, making the protagonists more likable, the enemies more menacing, and the twisting threads of the plot somewhat more coherent – all the while never losing what made the original story so fun in the first place.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T140235Z" creationid="david" creationdate="20230516T140235Z">
+        <seg>En general, todo el elenco ha sido renovado, haciendo que los protagonistas sean más simpáticos, los enemigos más amenazantes y los hilos entrelazados del argumento algo más coherentes, sin perder nunca lo que hacía que la historia original fuera tan divertida en primer lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the while, monsters, gore, and death follow.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T135829Z" creationid="david" creationdate="20230516T135829Z">
@@ -119,6 +127,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T134154Z" creationid="david" creationdate="20230516T134154Z">
         <seg>Soy un rarito y esa nueva versión de Resident evil 4 ha complacido mi amor enfermizo por el gore virtual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I could write a metaphorical book about all the ways I love the Resident Evil 4 remake, but it might be simplest to tell you to look down at the score at the bottom of this page and sum it up like this: if you loved Resident Evil 4 in the past, you will love this remake.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T140343Z" creationid="david" creationdate="20230516T140343Z">
+        <seg>Podría escribir un libro metafórico sobre todas las formas en que amo esta nueva versión de Resident Evil 4, pero quizás sea más sencillo decirte que mires la puntuación en la parte inferior de esta página y resumirlo así: si amaste Resident Evil 4 en su momento, amarás este remake.</seg>
       </tuv>
     </tu>
     <tu>
