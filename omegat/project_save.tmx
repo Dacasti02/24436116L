@@ -483,6 +483,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>RE4, the original, has been played and enjoyed by many players.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T151140Z" creationid="mariaarpaperez" creationdate="20230516T151140Z">
+        <seg>Muchos jugadores han jugado y disfrutado de RE4, la versión original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rather than the fixed camera angles of its predecessors, the original game placed the camera behind Leon's back.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T141127Z" creationid="david" creationdate="20230516T141127Z">
