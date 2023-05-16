@@ -14,10 +14,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Developer&lt;/s0&gt; Capcom</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T143950Z" creationid="david" creationdate="20230516T143950Z">
+        <seg>&lt;s0&gt;Desarrolladora&lt;/s0&gt; Capcom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Publisher&lt;/s0&gt; Capcom</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T143756Z" creationid="david" creationdate="20230516T143756Z">
-        <seg>&lt;s0&gt;&lt;/s0&gt; Capcom</seg>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T143944Z" creationid="david" creationdate="20230516T143756Z">
+        <seg>&lt;s0&gt;Editora&lt;/s0&gt; Capcom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Rating&lt;/s0&gt; Mature</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T144543Z" creationid="david" creationdate="20230516T144543Z">
+        <seg>&lt;s0&gt;Clasificación&lt;/s0&gt; Maduro (+18)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Release&lt;/s0&gt; &lt;t1&gt;March 24, 2023&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T144008Z" creationid="david" creationdate="20230516T144008Z">
+        <seg>&lt;s0&gt;Lanzamiento&lt;/s0&gt; &lt;t1&gt;24 de marzo de 2023&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -371,6 +395,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Refinement, Not Reinvention</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T143902Z" creationid="david" creationdate="20230516T143902Z">
+        <seg>Refinamiento, no reinvención</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resident Evil 4 (Remake) Review</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T143843Z" creationid="david" creationdate="20230516T143843Z">
@@ -503,6 +535,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T135722Z" creationid="david" creationdate="20230516T135722Z">
         <seg>Pronto te enfrentas a multitudes de lugareños enfurecidos infectados por un parásito llamado Las Plagas, lo que facilita al antagonista principal del juego controlarlos sin que pierdan por completo sus facultades mentales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by &lt;a0&gt;Blake Hester&lt;/a0&gt; on Mar 17, 2023 at 02:01 AM</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T143931Z" creationid="david" creationdate="20230516T143931Z">
+        <seg>por &lt;a0&gt;Blake Hester&lt;/a0&gt; el 17 de marzo de 2023 a las 02:01 AM</seg>
       </tuv>
     </tu>
     <tu>
