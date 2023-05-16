@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At that village, all hell breaks loose.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T135217Z" creationid="david" creationdate="20230516T135217Z">
+        <seg>En ese pueblo, se desata todo el infierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Despite my constant anxiety, I had so much fun that I welcomed every major combat encounter.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T133533Z" creationid="david" creationdate="20230516T133533Z">
