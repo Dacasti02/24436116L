@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Kota Suzuki:&lt;/s0&gt; As Tamura said, we needed to respect the original as we created something new for the remake.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T174453Z" creationid="mariaarpaperez" creationdate="20230516T174453Z">
+        <seg>&lt;s0&gt;Kota Suzuki:&lt;/s0&gt; Como ha dicho Tamura, teníamos que respetar el original a la vez que creaar algo nuevo para la nueva versión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Publisher&lt;/s0&gt; Capcom</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T143944Z" creationid="david" creationdate="20230516T143756Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T143647Z" creationid="david" creationdate="20230516T143647Z">
         <seg>&lt;s0&gt;Analizado en&lt;/s0&gt; PlayStation 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Tamura:&lt;/s0&gt; Almost all of them are recreated from scratch.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T174310Z" creationid="mariaarpaperez" creationdate="20230516T174310Z">
+        <seg>&lt;s0&gt;Tamura:&lt;/s0&gt; Casi todos ellos se recrearon desde cero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -355,6 +371,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For the sounds we recreated from scratch, we didn't just create any sounds we wanted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T174812Z" creationid="mariaarpaperez" creationdate="20230516T174812Z">
+        <seg>De los sonidos que recreamos desde cero, no creamos así porque sí los que nosotros queríamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From a visual and level design perspective, the Resident Evil 4 remake knows precisely when to be nostalgic and when to be fresh.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T134249Z" creationid="david" creationdate="20230516T134249Z">
@@ -591,6 +615,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T153554Z" creationid="mariaarpaperez" creationdate="20230516T153439Z">
         <seg>No importa qué area sea, esta es la base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>None of the sounds have been used as-is from the original, but we have some sounds which have been arranged or modified from the original RE4 and used in the remake.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T174407Z" creationid="mariaarpaperez" creationdate="20230516T174407Z">
+        <seg>Ninguno de los sonidos ha sido utilizado tal cual del original, pero tenemos algunos sonidos que han sido arreglados o modificados del RE4 original y utilizados en la nueva versión.</seg>
       </tuv>
     </tu>
     <tu>
