@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And weather sounds, such as rain falling.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T155329Z" creationid="mariaarpaperez" creationdate="20230516T155329Z">
+        <seg>También hay sonidos meteorológicos, como el de la lluvia al caer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Another example is, say you've got grass on the ground and trees swaying and rustling.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T154930Z" creationid="mariaarpaperez" creationdate="20230516T154930Z">
@@ -783,6 +791,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T144622Z" creationid="mariaarpaperez" creationdate="20230516T144622Z">
         <seg>Para comprender cómo la nueva versión remezcla y mejora el campo sonoro del juego original, contacté con el director de sonido de RE4, Hiroshi Tamura, y con el compositor principal, Kota Suzuki, para saber cómo lo hacen para que el juego suene tan bien como se juega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We use these five layers to make up the overall sound of each space, which mimics the construction of environmental sound in the real world and creates a high level of realism.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T155449Z" creationid="mariaarpaperez" creationdate="20230516T155449Z">
+        <seg>Utilizamos estas cinco capas para componer el sonido global de cada espacio, lo que imita la construcción del sonido ambiental en el mundo real y crea un alto nivel de realismo.</seg>
       </tuv>
     </tu>
     <tu>
