@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also, even for a battle starting, there's more than just spotting an enemy in front of you.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185146Z" creationid="mariaarpaperez" creationdate="20230516T185146Z">
+        <seg>Además, incluso para una batalla que comienza, hay algo más que ver a un enemigo frente a ti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also, there's the sound of the wind.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T153937Z" creationid="mariaarpaperez" creationdate="20230516T153937Z">
@@ -1167,6 +1175,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T160018Z" creationid="mariaarpaperez" creationdate="20230516T160018Z">
         <seg>El sonido real de un disparo es bastante frío y metálico, por lo que si lo recreas tal cual en un juego, la experiencia del juego no te resulta agradable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The volume of the sound coming from an enemy is also detected, so for instance, if you can hear an enemy close, we might treat that the same as an 'in battle' status for the interactive music system.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185222Z" creationid="mariaarpaperez" creationdate="20230516T185222Z">
+        <seg>El volumen del sonido procedente de un enemigo también se detecta, así que, por ejemplo, si puedes oír a un enemigo cerca, podríamos tratarlo igual que un estado "en batalla" para el sistema de música interactiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then the music changes depending on that.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185108Z" creationid="mariaarpaperez" creationdate="20230516T185108Z">
+        <seg>Entonces, dependiendo de eso, la música cambia.</seg>
       </tuv>
     </tu>
     <tu>
