@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And if you're outside, the wind has a speed and direction calculated by the GPU in real-time.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T154337Z" creationid="mariaarpaperez" creationdate="20230516T154337Z">
+        <seg>Si estás fuera, el viento tiene una velocidad y dirección calculada por la GPU en tiempo real.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And much of that charm is retained here, but with the addition of much sharper writing and better characterization.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T140001Z" creationid="david" creationdate="20230516T140001Z">
@@ -767,6 +775,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T140923Z" creationid="david" creationdate="20230516T140923Z">
         <seg>Lo que falta, sin embargo, es el contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What this does is the sound of the wind is realistic and matches what you're seeing on screen, creating a sense of immersion.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T154556Z" creationid="mariaarpaperez" creationdate="20230516T154556Z">
+        <seg>Esto hace que el sonido del viento sea realista y coincida con lo que se ve en pantalla, lo que crea una sensación de inmersión.</seg>
       </tuv>
     </tu>
     <tu>
