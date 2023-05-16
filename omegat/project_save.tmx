@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Suzuki:&lt;/s0&gt; There's nothing like a main theme for the whole game.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T181352Z" creationid="mariaarpaperez" creationdate="20230516T181352Z">
+        <seg>&lt;s0&gt;Suzuki:&lt;/s0&gt; No hay nada como un tema principal para todo el juego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Tamura: &lt;/s0&gt;For that sound, the impact, the feel of that sound is something we paid a great deal of attention to.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T180320Z" creationid="mariaarpaperez" creationdate="20230516T180320Z">
@@ -358,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But to help build an atmosphere of fear, we did decide on different tones.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T181456Z" creationid="mariaarpaperez" creationdate="20230516T181456Z">
+        <seg>Sin embargo, para ayudar a crear una atmósfera de miedo, sí que decidimos usar diferentes tonos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Can you discuss what that means, with examples, and why that's important to the team?</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T150335Z" creationid="mariaarpaperez" creationdate="20230516T150335Z">
@@ -394,6 +410,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T151811Z" creationid="mariaarpaperez" creationdate="20230516T151811Z">
         <seg>Encontrar un equilibrio entre esos dos aspectos para producir el sonido de RE4 es una tarea difícil, pero ese es el objetivo que nos marcamos nosotros, el equipo de sonido, cuando creamos el sonido de este juego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, each area of the game, like the village at the beginning.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T181538Z" creationid="mariaarpaperez" creationdate="20230516T181538Z">
+        <seg>Por ejemplo, cada zona del juego, como el pueblo al principio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -471,6 +495,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T174812Z" creationid="mariaarpaperez" creationdate="20230516T174812Z">
         <seg>De los sonidos que recreamos desde cero, no creamos así porque sí los que nosotros queríamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the village, when I was first making the music, I was using a hybrid approach, using things like some modern synthesizers.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T181627Z" creationid="mariaarpaperez" creationdate="20230516T181627Z">
+        <seg>Cuando empecé a hacer música para el pueblo, utilizaba un enfoque híbrido, con sintetizadores modernos.</seg>
       </tuv>
     </tu>
     <tu>
