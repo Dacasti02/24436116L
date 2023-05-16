@@ -947,6 +947,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So we had to figure out how to deliver that information to the player among all the other sounds.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T180934Z" creationid="mariaarpaperez" creationdate="20230516T180934Z">
+        <seg>Así que tuvimos que encontrar la manera de hacer llegar esa información al jugador entre todos los demás sonidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Somewhat ironically, it's only as good as it is now because it exists in a post-Resident Evil 4 world.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T142501Z" creationid="david" creationdate="20230516T142501Z">
@@ -1079,6 +1087,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T141918Z" creationid="david" creationdate="20230516T141900Z">
         <seg>Esta perspectiva, por supuesto, es la plantilla para casi todos los videojuegos en tercera persona que vinieron después.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do that, we emphasized the attack of the sound to both make the sound easily identifiable by the user and make the sound have an impact that felt right.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T181021Z" creationid="mariaarpaperez" creationdate="20230516T181021Z">
+        <seg>Para ello, hicimos hincapié en el ataque del sonido para que el usuario pudiera identificarlo fácilmente y para que el sonido tuviera un impacto adecuado.</seg>
       </tuv>
     </tu>
     <tu>
