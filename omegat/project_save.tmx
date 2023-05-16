@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also, there's the sound of the wind.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T153937Z" creationid="mariaarpaperez" creationdate="20230516T153937Z">
+        <seg>También tenemos el sonido del viento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And don't get me started on the game's brutally gross gore system; blasting off heads and arms and even shooting enemies entirely in half as blood flows like confetti out of a pinata has rarely looked this fantastically disgusting.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T134011Z" creationid="david" creationdate="20230516T134011Z">
@@ -343,6 +351,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T143301Z" creationid="david" creationdate="20230516T143301Z">
         <seg>Si acaso, esta nueva versión refuerza por qué el Resident Evil 4 original es un juego que las personas aún deberían buscar, jugar o al menos ver y aprender sobre él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you're inside a room, you're going to hear the sound of the wind the closer you are to an opening in that room, like a window or door.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T154148Z" creationid="mariaarpaperez" creationdate="20230516T154148Z">
+        <seg>Si estás dentro de una habitación, escucharás el sonido del viento cuanto más creca estés de una abertura, como una ventana o una puerta.</seg>
       </tuv>
     </tu>
     <tu>
