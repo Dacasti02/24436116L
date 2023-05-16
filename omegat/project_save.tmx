@@ -323,6 +323,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For the sound of a gun shooting, the closer and closer you get to a realistic gunshot, the less and less it starts to feel good as you play the game.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T155748Z" creationid="mariaarpaperez" creationdate="20230516T155748Z">
+        <seg>En cuanto al sonido de un arma al disparar, cuanto más te acercas a un disparo realista, menos empieza a gustarte mientras juegas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From a visual and level design perspective, the Resident Evil 4 remake knows precisely when to be nostalgic and when to be fresh.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T134249Z" creationid="david" creationdate="20230516T134249Z">
@@ -839,6 +847,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T141328Z" creationid="david" creationdate="20230516T141328Z">
         <seg>Cuando apuntaba, tú veías directamente por encima de su hombro derecho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Within that, you have character sounds, a good example to give is a gunshot.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T155529Z" creationid="mariaarpaperez" creationdate="20230516T155529Z">
+        <seg>Dentro de eso, tienes sonidos que hacen los personajes, un buen ejemplo de esto es un disparo.</seg>
       </tuv>
     </tu>
     <tu>
