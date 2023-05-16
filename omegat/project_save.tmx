@@ -747,6 +747,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The real sound of a gunshot is quite cold and mechanical, so if you use that as-is inside a game, as a game the experience it doesn't feel good.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T160018Z" creationid="mariaarpaperez" creationdate="20230516T160018Z">
+        <seg>El sonido real de un disparo es bastante frío y metálico, por lo que si lo recreas tal cual en un juego, la experiencia del juego no te resulta agradable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then there's also what we call random tones.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T153643Z" creationid="mariaarpaperez" creationdate="20230516T153643Z">
