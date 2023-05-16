@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, the save theme, the merchant music; those are arrangments of the original music in the RE4.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T173341Z" creationid="mariaarpaperez" creationdate="20230516T173341Z">
+        <seg>Por ejemplo, la música de guardado o la música de compra son arreglos de la música original de RE4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For the first time since 2005, &lt;a0&gt;Resident Evil 4 is scary again, and I couldn't be happier&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T133427Z" creationid="david" creationdate="20230516T133427Z">
@@ -383,6 +391,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T140343Z" creationid="david" creationdate="20230516T140343Z">
         <seg>Podría escribir un libro metafórico sobre todas las formas en que amo esta nueva versión de Resident Evil 4, pero quizás sea más sencillo decirte que mires la puntuación en la parte inferior de esta página y resumirlo así: si amaste Resident Evil 4 en su momento, amarás este remake.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I gave a lot of thought into what to carry over from the original, what new to add.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T172311Z" creationid="mariaarpaperez" creationdate="20230516T172311Z">
+        <seg>Pensé mucho qué coger del original y qué añadir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I've been an RE4 fan since the original.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T172208Z" creationid="mariaarpaperez" creationdate="20230516T172208Z">
+        <seg>He sido un fan de RE4 desde el original.</seg>
       </tuv>
     </tu>
     <tu>
