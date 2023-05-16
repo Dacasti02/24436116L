@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Tamura:&lt;/s0&gt; An easy one to give as an example would be the environmental sounds that help build space.  We gave a lot of attention to that.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T153130Z" creationid="mariaarpaperez" creationdate="20230516T153130Z">
+        <seg>&lt;s0&gt;Tamura:&lt;/s0&gt; Un ejemplo fácil que poner serían los sonidos ambientales que ayudan a construir el espacio. Le hemos prestado mucha atención.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Across the board, the cast has received an overhaul, making the protagonists more likable, the enemies more menacing, and the twisting threads of the plot somewhat more coherent – all the while never losing what made the original story so fun in the first place.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T140235Z" creationid="david" creationdate="20230516T140235Z">
@@ -703,6 +711,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T140923Z" creationid="david" creationdate="20230516T140923Z">
         <seg>Lo que falta, sin embargo, es el contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What's an example of something that needed to sound hyper-realistic?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T152914Z" creationid="mariaarpaperez" creationdate="20230516T152914Z">
+        <seg>¿Qué es un ejemplo de algo que necesitaba sonar hiperrealista?</seg>
       </tuv>
     </tu>
     <tu>
