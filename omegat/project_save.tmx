@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -307,10 +307,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This perspective is, of course, the template for almost every third-person video game that came after.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T141900Z" creationid="david" creationdate="20230516T141900Z">
+        <seg>Esta perspectiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What it lacks, however, is context.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T140923Z" creationid="david" creationdate="20230516T140923Z">
         <seg>Lo que falta, sin embargo, es el contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When he aimed, you looked directly over his right shoulder.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T141328Z" creationid="david" creationdate="20230516T141328Z">
+        <seg>Cuando apuntaba, tú veías directamente por encima de su hombro derecho</seg>
       </tuv>
     </tu>
     <tu>
