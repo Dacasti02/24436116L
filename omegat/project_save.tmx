@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And for some tracks, we've taken a different approach.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T180018Z" creationid="mariaarpaperez" creationdate="20230516T180018Z">
+        <seg>Para algunas otras pistas, hemos adoptado un enfoque diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And if you're outside, the wind has a speed and direction calculated by the GPU in real-time.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T154337Z" creationid="mariaarpaperez" creationdate="20230516T154337Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T151811Z" creationid="mariaarpaperez" creationdate="20230516T151811Z">
         <seg>Encontrar un equilibrio entre esos dos aspectos para producir el sonido de RE4 es una tarea difícil, pero ese es el objetivo que nos marcamos nosotros, el equipo de sonido, cuando creamos el sonido de este juego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, maybe a track in the original had a very strong horror feel that we instead went with a little more dramatic direction for it in the remake.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T180105Z" creationid="mariaarpaperez" creationdate="20230516T180105Z">
+        <seg>Por ejemplo, puede que un tema del original tuviera un carácter terrorífico muy marcado, pero en la nueva versión hemos optado por una dirección más dramática.</seg>
       </tuv>
     </tu>
     <tu>
