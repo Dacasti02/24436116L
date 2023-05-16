@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>All the while, monsters, gore, and death follow.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T135829Z" creationid="david" creationdate="20230516T135829Z">
+        <seg>Mientras tanto, los monstruos, el gore y la muerte te persiguen..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And don't get me started on the game's brutally gross gore system; blasting off heads and arms and even shooting enemies entirely in half as blood flows like confetti out of a pinata has rarely looked this fantastically disgusting.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T134011Z" creationid="david" creationdate="20230516T134011Z">
         <seg>Y no me hagás empezar con el sistema de gore brutalmente repugnante de este juego; volar cabezas y brazos e incluso partir en dos a los enemigos mientras la sangre fluye como confeti de una piñata rara vez se ha visto tan fantásticamente repugnante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And much of that charm is retained here, but with the addition of much sharper writing and better characterization.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T140001Z" creationid="david" creationdate="20230516T140001Z">
+        <seg>Y mucho de ese encanto sigue aquí, pero con el añadido de una escritura más aguda y una mejor caracterización de personajes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26,6 +42,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T131645Z" creationid="david" creationdate="20230516T131645Z">
         <seg>Al igual que en 2005, es un puñetazo en la cara, el juego te dice que así es como va a ser a partir de ahora; acostúmbrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ashley, in particular, has been rewritten as a real character with emotions, intelligence, and charisma.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T140036Z" creationid="david" creationdate="20230516T140036Z">
+        <seg>Ashley, en particular, ha sido reescrita como un personaje real con emociones, inteligencia y carisma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -99,6 +123,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It's campy, goofy, and over-the-top.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T135917Z" creationid="david" creationdate="20230516T135917Z">
+        <seg>El juego es exagerado, tonto y excesivo..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It's incredible.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T131724Z" creationid="david" creationdate="20230516T131724Z">
@@ -151,6 +183,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T131647Z" creationid="david" creationdate="20230516T131647Z">
         <seg>Correr por mi vida, aterrorizado por el maníaco de la motosierra que me perseguía entre una multitud de gente desagradable, mientras disparaba desesperadamente a las rótulas enemigas, esquivaba los proyectiles entrantes y entraba y salía de las casas a medida que mi escasa munición se acercaba cada vez más a cero, me ponía tenso de una forma que no me ocurría en este nivel desde que era niño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That other characters don't sexually harass her like they did in the original is also a huge improvement.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T140105Z" creationid="david" creationdate="20230516T140105Z">
+        <seg>El hecho de que otros personajes no la acosen sexualmente como hacían en el original es una enorme mejora también.</seg>
       </tuv>
     </tu>
     <tu>
