@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For RE4, there's a lot of freedom there.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T184525Z" creationid="mariaarpaperez" creationdate="20230516T184525Z">
+        <seg>Para RE4, hay mucha libertad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, each area of the game, like the village at the beginning.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T181538Z" creationid="mariaarpaperez" creationdate="20230516T181538Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T173341Z" creationid="mariaarpaperez" creationdate="20230516T173341Z">
         <seg>Por ejemplo, la música de guardado o la música de compra son arreglos de la música original de RE4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, we have definitions for statuses like 'no enemies,' 'enemy close, but hasn't noticed the player,' or the neutral, warning or battle status.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185019Z" creationid="mariaarpaperez" creationdate="20230516T185019Z">
+        <seg>Por ejemplo, tenemos definiciones para estados como "sin enemigos", "enemigo cerca, pero no se ha dado cuenta de la presencia del jugador", o el estado neutral, de advertencia o de batalla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1031,6 +1047,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T180934Z" creationid="mariaarpaperez" creationdate="20230516T180934Z">
         <seg>Así que tuvimos que encontrar la manera de hacer llegar esa información al jugador entre todos los demás sonidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So we spent a lot of care in creating an interactive music system.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T184557Z" creationid="mariaarpaperez" creationdate="20230516T184557Z">
+        <seg>Por eso nos hemos esforzado mucho en crear un sistema de música interactiva.</seg>
       </tuv>
     </tu>
     <tu>
