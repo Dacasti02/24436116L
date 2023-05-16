@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And that's important.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T141006Z" creationid="david" creationdate="20230516T141006Z">
+        <seg>Y eso es importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a lifelong fan of the original, seeing some of my favorite levels and combat arenas recreated 1:1 on the PlayStation 5 was novel and fun.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T134352Z" creationid="david" creationdate="20230516T134352Z">
@@ -143,6 +151,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T140653Z" creationid="david" creationdate="20230516T140653Z">
         <seg>Es una carta de amor a un juego que los fanáticos conocen de arriba a abajo, de izquierda a derecha y en todos los sentidos, una recreación fiel en los momentos adecuados, pero con refinamientos expertos y sensibilidades modernas..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's also a radical reimagining when it needs to be, a wonderfully fun game fully confident in its ability to remake one of the best games of all time.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T140853Z" creationid="david" creationdate="20230516T140853Z">
+        <seg>También es una reinterpretación radical cuando es necesario, un juego maravillosamente divertido que confía plenamente en su capacidad para reinventar uno de los mejores juegos de todos los tiempos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -263,6 +279,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T131618Z" creationid="david" creationdate="20230516T131618Z">
         <seg>Hay dos públicos totalmente distintos para el remake de Resident Evil 4: los que han jugado al juego original, quizá varias o incluso docenas de veces en los últimos 18 años, y las personas que nunca lo han jugado, pero quieren saber de qué va todo este alboroto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What it lacks, however, is context.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T140923Z" creationid="david" creationdate="20230516T140923Z">
+        <seg>Lo que falta, sin embargo, es el contexto.</seg>
       </tuv>
     </tu>
     <tu>
