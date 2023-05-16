@@ -339,6 +339,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For the sound effects for the enemies, was everything re-recorded from scratch?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T174251Z" creationid="mariaarpaperez" creationdate="20230516T174251Z">
+        <seg>Para los efectos de sonido de los enemigos, ¿se volvió a grabar todo desde cero?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For the sound of a gun shooting, the closer and closer you get to a realistic gunshot, the less and less it starts to feel good as you play the game.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T155748Z" creationid="mariaarpaperez" creationdate="20230516T155748Z">
@@ -399,6 +407,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T172311Z" creationid="mariaarpaperez" creationdate="20230516T172311Z">
         <seg>Pensé mucho qué coger del original y qué añadir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I think tone is incredibly important, which is why it's an area I gave especially a lot of attention to as I created the music.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T174155Z" creationid="mariaarpaperez" creationdate="20230516T174155Z">
+        <seg>Creo que el tono es increíblemente importante, por lo que es un campo al que le presté mucha atención cnforme creaba la música.</seg>
       </tuv>
     </tu>
     <tu>
@@ -871,6 +887,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T144622Z" creationid="mariaarpaperez" creationdate="20230516T144622Z">
         <seg>Para comprender cómo la nueva versión remezcla y mejora el campo sonoro del juego original, contacté con el director de sonido de RE4, Hiroshi Tamura, y con el compositor principal, Kota Suzuki, para saber cómo lo hacen para que el juego suene tan bien como se juega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We gave a lot of thought on how to build a sense of fear.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T174023Z" creationid="mariaarpaperez" creationdate="20230516T174023Z">
+        <seg>Penamos mucho en cómo crear sensación de miedo.</seg>
       </tuv>
     </tu>
     <tu>
