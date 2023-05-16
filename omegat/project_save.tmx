@@ -683,6 +683,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then there's also what we call random tones.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T153643Z" creationid="mariaarpaperez" creationdate="20230516T153643Z">
+        <seg>También está lo que llamamos tonos aleatorios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are two entirely different audiences for the &lt;a0&gt;Resident Evil 4 remake&lt;/a0&gt;: those who have played the original game, perhaps multiple or even dozens of times over the last 18 years, and people who have never played it, but want to know what the fuss is all about.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T131618Z" creationid="david" creationdate="20230516T131618Z">
@@ -695,6 +703,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T142318Z" creationid="david" creationdate="20230516T142318Z">
         <seg>No hay universo en el que este juego sea tan importante como el juego original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These are unique sounds that we have set for that specific room, like 'clack' sounds or the creaks of the house, animal cries, or pebbles falling.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T153900Z" creationid="mariaarpaperez" creationdate="20230516T153900Z">
+        <seg>Se trata de sonidos únicos que hemos configurado para esa habitación en concreto, sonidos como "clack" o los crujidos de la casa, gritos de animales o piedrecitas que caen.</seg>
       </tuv>
     </tu>
     <tu>
