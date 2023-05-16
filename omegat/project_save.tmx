@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Suzuki:&lt;/s0&gt; There's no song that we used as-is from the original.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175529Z" creationid="mariaarpaperez" creationdate="20230516T175529Z">
+        <seg>&lt;s0&gt;Suzuki:&lt;/s0&gt; No hay ninguna canción del original que hayamos usado tal cual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Tamura: &lt;/s0&gt;This enemy appeared in one of the trailers, but Del Lago.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175049Z" creationid="mariaarpaperez" creationdate="20230516T175049Z">
@@ -310,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But roughly speaking, probably about 30% of the tracks keep a melody line from the original or arrange a phrase from the original.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175600Z" creationid="mariaarpaperez" creationdate="20230516T175600Z">
+        <seg>Pero a grandes rasgos, probablemente el 30% de los temas conservan una línea melódica del original o arreglan una frase del original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Can you discuss what that means, with examples, and why that's important to the team?</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T150335Z" creationid="mariaarpaperez" creationdate="20230516T150335Z">
@@ -354,6 +370,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T173341Z" creationid="mariaarpaperez" creationdate="20230516T173341Z">
         <seg>Por ejemplo, la música de guardado o la música de compra son arreglos de la música original de RE4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the Ganado music I touched upon earlier, that concept was using a lot of noise sounds, but for another track, it could be an irregular rhythm or a creepy sound that almost sounds like a voice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175934Z" creationid="mariaarpaperez" creationdate="20230516T175934Z">
+        <seg>Para la música de los Ganado que he mencionado antes, el concepto era utilizar muchos sonidos de ruido, pero para otra pista, podría ser un ritmo irregular o un sonido espeluznante que casi suena como una voz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -699,6 +723,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Of that, some of it is music remade while keeping the original concept.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175710Z" creationid="mariaarpaperez" creationdate="20230516T175710Z">
+        <seg>De eso, una parte es música rehecha manteniendo el concepto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the other hand, for example, the music when battling a Ganado, in the original RE4 it used a lot of noise-type sounds, which was really innovative for a horror game at the time.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T173706Z" creationid="mariaarpaperez" creationdate="20230516T173706Z">
@@ -927,6 +959,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T131642Z" creationid="david" creationdate="20230516T131642Z">
         <seg>La sección de la "aldea", fielmente recreada, te lanza docenas de enemigos, que te obligan a manejar los numerosos escenarios de combate o a morir rápidamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The other 70% is new.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175613Z" creationid="mariaarpaperez" creationdate="20230516T175613Z">
+        <seg>El otro 70% es nuevo.</seg>
       </tuv>
     </tu>
     <tu>
