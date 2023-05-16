@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But at the same time, there's also a lot of other sounds that need to be played, and a lot of those are very important as well.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T180844Z" creationid="mariaarpaperez" creationdate="20230516T180844Z">
+        <seg>A la vez que este hay muchos otros sonidos que tienen que sonar, y muchos de ellos son también muy importantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But if we made the sound as realistic as we could here, we would lose the essence of RE4.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T152055Z" creationid="mariaarpaperez" creationdate="20230516T152055Z">
@@ -583,6 +591,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T154148Z" creationid="mariaarpaperez" creationdate="20230516T154148Z">
         <seg>Si estás dentro de una habitación, escucharás el sonido del viento cuanto más creca estés de una abertura, como una ventana o una puerta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you're surrounded by enemies, and you start hearing that sound, then in the game you are probably in quite a lot of danger.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T180539Z" creationid="mariaarpaperez" creationdate="20230516T180539Z">
+        <seg>Si estás rodeado de enemigos y empiezas a oír ese sonido, entonces es probable que en el juego corras gran peligro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -999,6 +1015,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T131642Z" creationid="david" creationdate="20230516T131642Z">
         <seg>La sección de la "aldea", fielmente recreada, te lanza docenas de enemigos, que te obligan a manejar los numerosos escenarios de combate o a morir rápidamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The game must properly communicate that danger to the player with its sound.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T180619Z" creationid="mariaarpaperez" creationdate="20230516T180619Z">
+        <seg>El juego debe comunicar adecuadamente ese peligro al jugador con su sonido correspondiente.</seg>
       </tuv>
     </tu>
     <tu>
