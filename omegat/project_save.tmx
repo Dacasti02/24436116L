@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Are there any new music tracks in RE4?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175347Z" creationid="mariaarpaperez" creationdate="20230516T175347Z">
+        <seg>¿Hay nuevos temas musicales en RE4?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a lifelong fan of the original, seeing some of my favorite levels and combat arenas recreated 1:1 on the PlayStation 5 was novel and fun.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T134352Z" creationid="david" creationdate="20230516T134352Z">
@@ -435,6 +443,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How did you decide it fit into the existing soundtrack?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175503Z" creationid="mariaarpaperez" creationdate="20230516T175503Z">
+        <seg>¿Cómo decidiste que encajaba en la banda sonora existente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I am a freak, and the Resident Evil 4 remake indulged my sick love of virtual gore.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T134154Z" creationid="david" creationdate="20230516T134154Z">
@@ -487,6 +503,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T143301Z" creationid="david" creationdate="20230516T143301Z">
         <seg>Si acaso, esta nueva versión refuerza por qué el Resident Evil 4 original es un juego que las personas aún deberían buscar, jugar o al menos ver y aprender sobre él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If so, how many?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175434Z" creationid="mariaarpaperez" creationdate="20230516T175434Z">
+        <seg>Si los hay, ¿se puede saber cuántos?</seg>
       </tuv>
     </tu>
     <tu>
@@ -559,6 +583,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T140853Z" creationid="david" creationdate="20230516T140853Z">
         <seg>También es una reinterpretación radical cuando es necesario, un juego maravillosamente divertido que confía plenamente en su capacidad para reinventar uno de los mejores juegos de todos los tiempos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's an enemy that you fight while on the water, so it took a lot of work to create a sound that gives life to the character and also stands out from the environmental sounds occurring around you at the time.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175258Z" creationid="mariaarpaperez" creationdate="20230516T175258Z">
+        <seg>Es un enemigo contra el que luchas mientras estás en el agua, así que costó mucho trabajo crear un sonido que diera vida al personaje y que además destacara de los sonidos ambientales que se producen a tu alrededor en ese momento.</seg>
       </tuv>
     </tu>
     <tu>
