@@ -139,6 +139,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is a love letter to a game that fans know up, down, left, right, and center, a faithful recreation at all the right moments, but with expert refinements and modern sensibilities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T140653Z" creationid="david" creationdate="20230516T140653Z">
+        <seg>Es una carta de amor a un juego que los fanáticos conocen de arriba a abajo, de izquierda a derecha y en todos los sentidos, una recreación fiel en los momentos adecuados, pero con refinamientos expertos y sensibilidades modernas..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It's campy, goofy, and over-the-top.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T135917Z" creationid="david" creationdate="20230516T135917Z">
@@ -191,6 +199,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T134944Z" creationid="david" creationdate="20230516T134944Z">
         <seg>Quizás el mayor esfuerzo se invirtió en reescribir la historia del juego, aunque los momentos clave de la narrativa siguen siendo los mismos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Period.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T140352Z" creationid="david" creationdate="20230516T140352Z">
+        <seg>Punto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Point blank.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T140618Z" creationid="david" creationdate="20230516T140531Z">
+        <seg>Sin rodeos.</seg>
       </tuv>
     </tu>
     <tu>
