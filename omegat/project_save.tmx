@@ -203,6 +203,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most importantly, he was slightly off-center to the left.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T141254Z" creationid="david" creationdate="20230516T141254Z">
+        <seg>Lo más importante es que estaba ligeramente descentrado hacia la izquierda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nevertheless, I welcomed every new addition as much as I did the old standbys.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T134647Z" creationid="david" creationdate="20230516T134647Z">
@@ -231,6 +239,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T140618Z" creationid="david" creationdate="20230516T140531Z">
         <seg>Sin rodeos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quickly following any mention of the original Resident Evil 4 is discussion of its camera.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T141054Z" creationid="david" creationdate="20230516T141054Z">
+        <seg>Rápidamente, después de cualquier mención del Resident Evil 4 original, viene la discusión de su cámara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather than the fixed camera angles of its predecessors, the original game placed the camera behind Leon's back.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T141127Z" creationid="david" creationdate="20230516T141127Z">
+        <seg>En lugar de los ángulos de cámara fijos de sus predecesores, el juego original colocaba la cámara detrás de la espalda de Leon.</seg>
       </tuv>
     </tu>
     <tu>
