@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>And don't get me started on the game's brutally gross gore system; blasting off heads and arms and even shooting enemies entirely in half as blood flows like confetti out of a pinata has rarely looked this fantastically disgusting.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T134011Z" creationid="david" creationdate="20230516T134011Z">
+        <seg>Y no me hagás empezar con el sistema de gore brutalmente repugnante de este juego; volar cabezas y brazos e incluso partir en dos a los enemigos mientras la sangre fluye como confeti de una piñata rara vez se ha visto tan fantásticamente repugnante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As it was in 2005, it's a punch-in-the-face type of opening, the game telling you this is how it will be from here on out; get used to it.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T131645Z" creationid="david" creationdate="20230516T131645Z">
@@ -18,6 +26,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T133533Z" creationid="david" creationdate="20230516T133533Z">
         <seg>Pese a mi ansiedad constante, me lo estaba pasando tan bien que me alegraba cada gran enfrentamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Especially by the time I unlocked the more powerful weapons – shoutout to my semi-automatic shotgun – blowing through scores of enemies felt fantastic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T133811Z" creationid="david" creationdate="20230516T133811Z">
+        <seg>Especialmente cuando desbloqueé las armas más poderosas, un saludo a mi escopeta semiautomática, acabar con hordas de enemigos se sentía fantástico.</seg>
       </tuv>
     </tu>
     <tu>
