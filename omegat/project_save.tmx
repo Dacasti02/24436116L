@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Tamura: &lt;/s0&gt;This enemy appeared in one of the trailers, but Del Lago.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175049Z" creationid="mariaarpaperez" creationdate="20230516T175049Z">
+        <seg>&lt;s0&gt;Tamura: &lt;/s0&gt;Este enemigo apareció en uno de los trailers, pero Del Lago.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Tamura:&lt;/s0&gt; Almost all of them are recreated from scratch.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T174310Z" creationid="mariaarpaperez" creationdate="20230516T174310Z">
@@ -379,6 +387,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For the sounds that are based in the original, I think some fans out there might be able to tell which ones they are once they hear them in the game.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T174938Z" creationid="mariaarpaperez" creationdate="20230516T174938Z">
+        <seg>En cuanto a los sonidos que se basan en el original, creo que algunos aficionados podrán saber cuáles son una vez que los oigan en el juego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For the sounds we recreated from scratch, we didn't just create any sounds we wanted.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T174812Z" creationid="mariaarpaperez" creationdate="20230516T174812Z">
@@ -491,10 +507,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is there a particular enemy you were excited to revisit and update?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175012Z" creationid="mariaarpaperez" creationdate="20230516T175012Z">
+        <seg>¿Hay algún enemigo en particular que le entusiasmara volver a visitar y actualizar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can't come out in the same time, space, and context as the first Resident Evil 4.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T142408Z" creationid="david" creationdate="20230516T142408Z">
         <seg>No puede salir al mismo tiempo, espacio y contexto que el primer Resident Evil 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It doesn't have a lot of sounds, but it took a lot of trial and error to find that sound, like its cry, that felt right for Del Lago.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175206Z" creationid="mariaarpaperez" creationdate="20230516T175206Z">
+        <seg>No tiene muchos sonidos, pero se necesitó mucho ensayo y fallos para encontrar ese sonido, igual que su grito, que encajase bien para Del Lago.</seg>
       </tuv>
     </tu>
     <tu>
