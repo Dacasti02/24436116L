@@ -323,6 +323,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For the music, can you discuss the unique challenges of iterating on an existing score?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T172001Z" creationid="mariaarpaperez" creationdate="20230516T172001Z">
+        <seg>En cuanto a la música, ¿podrías hablarnos de los retos que supone repetir una partitura ya existente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For the sound of a gun shooting, the closer and closer you get to a realistic gunshot, the less and less it starts to feel good as you play the game.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T155748Z" creationid="mariaarpaperez" creationdate="20230516T155748Z">
@@ -863,6 +871,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T141328Z" creationid="david" creationdate="20230516T141328Z">
         <seg>Cuando apuntaba, tú veías directamente por encima de su hombro derecho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When this project started, first I played the original again and then analyzed what kind of approach the original had and why.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T172148Z" creationid="mariaarpaperez" creationdate="20230516T172148Z">
+        <seg>Cuando el proyecto empezó, primero puse la original otra vez y después analicé qué tipo de enfoque tenía y por qué.</seg>
       </tuv>
     </tu>
     <tu>
