@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -162,6 +162,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T135217Z" creationid="david" creationdate="20230516T135217Z">
         <seg>En ese pueblo, se desata todo el infierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before joining Game Informer he freelanced for outlets such as Polygon, Vice, USG, and Rolling Stone.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T145023Z" creationid="david" creationdate="20230516T145023Z">
+        <seg>Antes de unirse a Game Informer, trabajó como freelance para medios como Polygon, Vice, USG y Rolling Stone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blake Hester has been writing about the video game industry since 2015.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T144709Z" creationid="david" creationdate="20230516T144709Z">
+        <seg>Blake Hester escribe sobre la industria del videojuego desde 2015.</seg>
       </tuv>
     </tu>
     <tu>
@@ -347,6 +363,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>March 24, 2023 (PlayStation 5, Xbox Series X/S, PlayStation 4, PC),</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T144616Z" creationid="david" creationdate="20230516T144616Z">
+        <seg>24 de marzo de 2023 (PlayStation 5, Xbox Series X/S, PlayStation 4, PC),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More Info</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T144651Z" creationid="david" creationdate="20230516T144625Z">
+        <seg>Más información</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most importantly, he was slightly off-center to the left.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T141254Z" creationid="david" creationdate="20230516T141254Z">
@@ -387,10 +419,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Platform:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T144552Z" creationid="david" creationdate="20230516T144552Z">
+        <seg>Plataformas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Point blank.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T140618Z" creationid="david" creationdate="20230516T140531Z">
         <seg>Sin rodeos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Purchase</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T144621Z" creationid="david" creationdate="20230516T144621Z">
+        <seg>Comprar</seg>
       </tuv>
     </tu>
     <tu>
@@ -419,10 +467,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Release Date:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T144601Z" creationid="david" creationdate="20230516T144601Z">
+        <seg>Fecha de lanzamiento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resident Evil 4 (Remake) Review</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T143843Z" creationid="david" creationdate="20230516T143843Z">
         <seg>Resident Evil 4 (Remake) Análisis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resident Evil 4 (Remake) Review - Refinement, Not Reinvention - Game Informer</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="david" changedate="20230516T145102Z" creationid="david" creationdate="20230516T145102Z">
+        <seg>Resident Evil 4 (Remake) Análisis - Refinamiento, no reinvención - Game Informer</seg>
       </tuv>
     </tu>
     <tu>
