@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Tamura:&lt;/s0&gt; Even with the power of today's high-end machines, to help reduce processing load, culling is used.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185836Z" creationid="mariaarpaperez" creationdate="20230516T185836Z">
+        <seg>&lt;s0&gt;Tamura:&lt;/s0&gt; Incluso con la potencia de las máquinas de gama alta de hoy en día, para ayudar a reducir la carga de procesamiento, se utiliza la eliminación selectiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Across the board, the cast has received an overhaul, making the protagonists more likable, the enemies more menacing, and the twisting threads of the plot somewhat more coherent – all the while never losing what made the original story so fun in the first place.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T140235Z" creationid="david" creationdate="20230516T140235Z">
@@ -406,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can we expect more audio tricks to be played on players?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185702Z" creationid="mariaarpaperez" creationdate="20230516T185645Z">
+        <seg>¿Podemos esperar más pistas de audio en los reproductores?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Can you discuss what that means, with examples, and why that's important to the team?</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T150335Z" creationid="mariaarpaperez" creationdate="20230516T150335Z">
@@ -607,6 +623,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T184030Z" creationid="mariaarpaperez" creationdate="20230516T184030Z">
         <seg>¿En qué crees que se diferencia la banda sonora de RE4 de la de otras entregas a la hora de crear y mantener una atmósfera tensa e inquietante?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How fun is it messing with players using sound?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185734Z" creationid="mariaarpaperez" creationdate="20230516T185734Z">
+        <seg>¿Es divertido meterse con los jugadores mediante el sonido?</seg>
       </tuv>
     </tu>
     <tu>
