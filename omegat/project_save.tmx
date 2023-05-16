@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Another example is, say you've got grass on the ground and trees swaying and rustling.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T154930Z" creationid="mariaarpaperez" creationdate="20230516T154930Z">
+        <seg>Digamos que otro ejemplo es que hay hierba en el suelo y árboles que se mecen y crujen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a lifelong fan of the original, seeing some of my favorite levels and combat arenas recreated 1:1 on the PlayStation 5 was novel and fun.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T134352Z" creationid="david" creationdate="20230516T134352Z">
