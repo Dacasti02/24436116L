@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Culling is a necessary process.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T190120Z" creationid="mariaarpaperez" creationdate="20230516T190120Z">
+        <seg>La eliminación selectiva es un proceso necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Despite my constant anxiety, I had so much fun that I welcomed every major combat encounter.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T133533Z" creationid="david" creationdate="20230516T133533Z">
@@ -923,6 +931,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Oftentimes that disables all the sounds that object would make, as well.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185959Z" creationid="mariaarpaperez" creationdate="20230516T185959Z">
+        <seg>A menudo eso también desactiva todos los sonidos que el objeto haría, .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the other hand, for example, the music when battling a Ganado, in the original RE4 it used a lot of noise-type sounds, which was really innovative for a horror game at the time.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T173706Z" creationid="mariaarpaperez" creationdate="20230516T173706Z">
@@ -1151,6 +1167,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T143020Z" creationid="david" creationdate="20230516T143020Z">
         <seg>Eso hará que jugar la nueva versión sea una experiencia mucho más enriquecedora; podremos ver décadas de lecciones aprendidas en la industria de los videojuegos sobre cómo hacer que un juego de acción en tercera persona sea emocionante, divertido y mecánicamente efectivo, aplicadas nuevamente al material original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That's when you basically turn off any objects in places you can't see, like behind walls.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185916Z" creationid="mariaarpaperez" creationdate="20230516T185916Z">
+        <seg>Es cuando básicamente apagas cualquier objeto en lugares que no puedes ver, como detrás de las paredes.</seg>
       </tuv>
     </tu>
     <tu>
