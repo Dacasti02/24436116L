@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also, for instance, if there's many enemies around you, then the music might be arranged slightly, or maybe the number of instruments might increase.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185421Z" creationid="mariaarpaperez" creationdate="20230516T185421Z">
+        <seg>También, por ejemplo, si hay muchos enemigos a tu alrededor, la música podría cambiar ligeramente, o tal vez el número de instrumentos podría aumentar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also, there's the sound of the wind.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T153937Z" creationid="mariaarpaperez" creationdate="20230516T153937Z">
@@ -1231,6 +1239,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T153900Z" creationid="mariaarpaperez" creationdate="20230516T153900Z">
         <seg>Se trata de sonidos únicos que hemos configurado para esa habitación en concreto, sonidos como "clack" o los crujidos de la casa, gritos de animales o piedrecitas que caen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These kinds of things add up to make the tension of the music match the feelings of the player more than ever before, I think.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185612Z" creationid="mariaarpaperez" creationdate="20230516T185612Z">
+        <seg>Creo que este tipo de cosas contribuyen a que la tensión de la música coincida más que nunca con los sentimientos del jugador.</seg>
       </tuv>
     </tu>
     <tu>
