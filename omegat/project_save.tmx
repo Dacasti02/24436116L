@@ -795,6 +795,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If it wasn't, it wouldn't be able to play sounds.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T144024Z" creationid="mariaarpaperez" creationdate="20230517T144024Z">
+        <seg>De lo contrario, no se podría producir sonidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If so, how many?</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175434Z" creationid="mariaarpaperez" creationdate="20230516T175434Z">
