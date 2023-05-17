@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But if there's a wall between you and the enemy, you shouldn't be able to hear that from the right.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T135556Z" creationid="mariaarpaperez" creationdate="20230517T135521Z">
+        <seg>Pero si hay un muro entre tú y el enemigo, no deberías poder oírlo desde la derecha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But if we made the sound as realistic as we could here, we would lose the essence of RE4.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T152055Z" creationid="mariaarpaperez" creationdate="20230516T152055Z">
@@ -643,6 +651,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Going back to the direct pass, in this game, depending on the thickness or density of the wall, how much you can hear through walls will be adjusted appropriately.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T135756Z" creationid="mariaarpaperez" creationdate="20230517T135756Z">
+        <seg>Volviendo al pase directo, en este juego, dependiendo del grosor o densidad de la pared, se ajustará adecuadamente cuánto se oye a través de las paredes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How did you create the sound of the las plaga exploding from a Ganado neck?</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T180429Z" creationid="mariaarpaperez" creationdate="20230516T180429Z">
@@ -791,6 +807,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T155221Z" creationid="mariaarpaperez" creationdate="20230516T155221Z">
         <seg>Además, tienes un sonido ambiental fijo, seleccionado y único.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the real world, that yell would sound like it's coming from the open door in front of you.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T135627Z" creationid="mariaarpaperez" creationdate="20230517T135627Z">
+        <seg>En el mundo real, ese grito sonaría como si viniera de la puerta abierta frente a ti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1391,6 +1415,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T144622Z" creationid="mariaarpaperez" creationdate="20230516T144622Z">
         <seg>Para comprender cómo la nueva versión remezcla y mejora el campo sonoro del juego original, contacté con el director de sonido de RE4, Hiroshi Tamura, y con el compositor principal, Kota Suzuki, para saber cómo lo hacen para que el juego suene tan bien como se juega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using room portal in the game, that effect can be replicated in the game, and it will sound like the enemy's voice is coming from the direction of the door.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T135653Z" creationid="mariaarpaperez" creationdate="20230517T135653Z">
+        <seg>Usando el portal de la habitación en el juego, ese efecto se puede replicar en el juego, y sonará como si la voz del enemigo viniera de la dirección de la puerta.</seg>
       </tuv>
     </tu>
     <tu>
