@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But for instance, in this remake, if we have a Ganado behind a wall that the player can't possibly see or get to, then from a graphics standpoint, it's fine to turn off, so we cull it, but at the same time, we create another purely sound object in its place.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T073236Z" creationid="mariaarpaperez" creationdate="20230517T073236Z">
+        <seg>Sin embargo, en esta nueva versión, si tenemos un Ganado detrás de un muro que el jugador no puede ver o al que no puede llegar desde un punto de vista gráfico, está bien apagarlo, así que lo eliminamos, pero, al mismo tiempo, creamos otro objeto puramente sonoro en su lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But if we made the sound as realistic as we could here, we would lose the essence of RE4.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T152055Z" creationid="mariaarpaperez" creationdate="20230516T152055Z">
