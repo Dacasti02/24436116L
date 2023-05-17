@@ -731,6 +731,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If an enemy was on the other side of the right wall and, for example, yelled, a direct pass processing these sounds would place the sound source to your right.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T135442Z" creationid="mariaarpaperez" creationdate="20230517T135442Z">
+        <seg>Si un enemigo se encontrara al otro lado de la pared derecha y, por ejemplo, gritara, el procesamiento directo de estos sonidos situaría la fuente sonora a tu derecha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If anything, this new version reinforces why the original Resident Evil 4 is a game people should still seek out, play, or at least watch and learn about.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T143301Z" creationid="david" creationdate="20230516T143301Z">
@@ -1335,6 +1343,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185612Z" creationid="mariaarpaperez" creationdate="20230516T185612Z">
         <seg>Creo que este tipo de cosas contribuyen a que la tensión de la música coincida más que nunca con los sentimientos del jugador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that, well, let's imagine you're in a small room with one open door a little ways in front of you.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T135402Z" creationid="mariaarpaperez" creationdate="20230517T135402Z">
+        <seg>Esto significa que, bueno, imaginemos que estás en una habitación pequeña con una puerta abierta un poco delante de ti.</seg>
       </tuv>
     </tu>
     <tu>
