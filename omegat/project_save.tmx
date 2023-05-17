@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also, in the remake, we use a feature called room portal.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T083355Z" creationid="mariaarpaperez" creationdate="20230517T083355Z">
+        <seg>Además, en la nueva versión usamos una función llamada portal de sala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also, there's the sound of the wind.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T153937Z" creationid="mariaarpaperez" creationdate="20230516T153937Z">
