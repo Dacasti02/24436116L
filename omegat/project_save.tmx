@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Tamura:&lt;/s0&gt; In the past, it's been used partially in titles like Village.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T135943Z" creationid="mariaarpaperez" creationdate="20230517T135943Z">
+        <seg>&lt;s0&gt;Tamura:&lt;/s0&gt; En el pasado, se ha utilizado parcialmente en títulos como Village.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Across the board, the cast has received an overhaul, making the protagonists more likable, the enemies more menacing, and the twisting threads of the plot somewhat more coherent – all the while never losing what made the original story so fun in the first place.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T140235Z" creationid="david" creationdate="20230516T140235Z">
@@ -426,6 +434,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T181703Z" creationid="mariaarpaperez" creationdate="20230516T181703Z">
         <seg>Pero el director me dijo que sonaba demasiado a nuevo y me pidió que intentara crear la sensación de un pueblo antiguo y, al mismo tiempo, adaptarlo a las tendencias modernas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But the way room portal is implemented, it's an implementation similar to things like middleware.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T140145Z" creationid="mariaarpaperez" creationdate="20230517T140145Z">
+        <seg>Pero la forma en la que se implementa el portal de salas es una implementación similar a cosas como el middleware.</seg>
       </tuv>
     </tu>
     <tu>
@@ -815,6 +831,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T135627Z" creationid="mariaarpaperez" creationdate="20230517T135627Z">
         <seg>En el mundo real, ese grito sonaría como si viniera de la puerta abierta frente a ti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is room portal unique to this title, or has it been used in other RE games?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T135845Z" creationid="mariaarpaperez" creationdate="20230517T135845Z">
+        <seg>¿El portal de habitaciones es exclusivo de este título o se ha utilizado en otros juegos de RE?</seg>
       </tuv>
     </tu>
     <tu>
