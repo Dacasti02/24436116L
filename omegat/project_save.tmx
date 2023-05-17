@@ -635,6 +635,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For this remake, we implemented it in a way we could use it throughout the whole game.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T143448Z" creationid="mariaarpaperez" creationdate="20230517T143448Z">
+        <seg>Para esta nueva versión, lo hemos implementado de forma que podamos utilizarlo en todo el juego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From a technical standpoint, every area in the game exists as one of these rooms.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T143758Z" creationid="mariaarpaperez" creationdate="20230517T143758Z">
+        <seg>Desde un punto de vista técnico, cada zona del juego existe como una de estas salas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From a visual and level design perspective, the Resident Evil 4 remake knows precisely when to be nostalgic and when to be fresh.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T134249Z" creationid="david" creationdate="20230516T134249Z">
