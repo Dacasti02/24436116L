@@ -787,6 +787,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It breaks up in-game rooms into values depending on acoustics and then adds what's called a 'portal' to openings, such as a door or a window to connect rooms.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T083749Z" creationid="mariaarpaperez" creationdate="20230517T083749Z">
+        <seg>Divide las salas del juego en valores en función de la acústica y luego añade lo que se llama un "portal" a las aberturas, como una puerta o una ventana para conectar las salas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can't come out in the same time, space, and context as the first Resident Evil 4.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T142408Z" creationid="david" creationdate="20230516T142408Z">
