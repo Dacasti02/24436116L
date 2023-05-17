@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Tamura:&lt;/s0&gt; I play games, so when I think about sounds, I find myself thinking of games.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T144542Z" creationid="mariaarpaperez" creationdate="20230517T144542Z">
+        <seg>&lt;s0&gt;Tamura:&lt;/s0&gt; Suelo jugar a videojuegos, así que cuando pienso en los sonidos, me topo con los juegos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Tamura:&lt;/s0&gt; In the past, it's been used partially in titles like Village.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T135943Z" creationid="mariaarpaperez" creationdate="20230517T135943Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T131645Z" creationid="david" creationdate="20230516T131645Z">
         <seg>Al igual que en 2005, es un puñetazo en la cara, el juego te dice que así es como va a ser a partir de ahora; acostúmbrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As sound professionals, what iconic sound effects or score stays in your mind?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T144143Z" creationid="mariaarpaperez" creationdate="20230517T144143Z">
+        <seg>Como profesionales del sonido, ¿qué efectos sonoros o partituras icónicas se os quedan grabados en la mente?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1575,6 +1591,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T152914Z" creationid="mariaarpaperez" creationdate="20230516T152914Z">
         <seg>¿Qué es un ejemplo de algo que necesitaba sonar hiperrealista?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What's your favorite?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T144217Z" creationid="mariaarpaperez" creationdate="20230517T144217Z">
+        <seg>¿Cuál es tu favorito?</seg>
       </tuv>
     </tu>
     <tu>
