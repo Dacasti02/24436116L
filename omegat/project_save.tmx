@@ -891,6 +891,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It takes a lot of manual work to create each room, so in past titles, it was used sparingly to enhance certain areas.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T143413Z" creationid="mariaarpaperez" creationdate="20230517T143413Z">
+        <seg>Se necesita mucho trabajo manual para crear cada habitación, por lo que en títulos anteriores se utilizaba con moderación para realzar determinadas zonas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It's a refinement, not a reinvention.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T143058Z" creationid="david" creationdate="20230516T143058Z">
