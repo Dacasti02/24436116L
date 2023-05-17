@@ -1467,6 +1467,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We implemented it into the RE engine.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T142745Z" creationid="mariaarpaperez" creationdate="20230517T142745Z">
+        <seg>Lo implementamos en el motor de RE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We use that throughout the world of this game.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T084025Z" creationid="mariaarpaperez" creationdate="20230517T084025Z">
