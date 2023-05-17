@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doing this allows sound occlusion and diffraction to be naturally stimulated.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T135330Z" creationid="mariaarpaperez" creationdate="20230517T135330Z">
+        <seg>De este modo, se estimula de forma natural la oclusión y difracción del sonido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Environmental sound is made up of 'outside' and 'inside' sounds, which form the base of tone of that space or room tone.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T153318Z" creationid="mariaarpaperez" creationdate="20230516T153318Z">
