@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By doing that, we can instill fear from things you can't see but can hear and also create atmospheric sounds, which we both treated with a lot of care in the remake.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T073448Z" creationid="mariaarpaperez" creationdate="20230517T073448Z">
+        <seg>De este modo, podemos infundir miedo con cosas que no se ven pero se oyen, y también crear sonidos atmosféricos que ambos tratamos con mucho mimo en la nueva versión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Can we expect more audio tricks to be played on players?</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185702Z" creationid="mariaarpaperez" creationdate="20230516T185645Z">
@@ -1311,6 +1319,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T141918Z" creationid="david" creationdate="20230516T141900Z">
         <seg>Esta perspectiva, por supuesto, es la plantilla para casi todos los videojuegos en tercera persona que vinieron después.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This sound object plays the sounds the Ganado would make, so while the Ganado itself has been culled, you still have the presence of it through those sounds.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T073340Z" creationid="mariaarpaperez" creationdate="20230517T073340Z">
+        <seg>Este objeto de sonido reproduce los sonidos que haría el Ganado, así que aunque el Ganado en sí ha sido eliminado, todavía tienes su presencia a través de esos sonidos.</seg>
       </tuv>
     </tu>
     <tu>
