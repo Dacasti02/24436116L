@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Rating&lt;/s0&gt; Mature</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T144543Z" creationid="david" creationdate="20230516T144543Z">
-        <seg>&lt;s0&gt;Clasificación&lt;/s0&gt; Maduro (+18)</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T093143Z" creationid="david" creationdate="20230516T144543Z">
+        <seg>&lt;s0&gt;Clasificación&lt;/s0&gt; Adulta (+18)</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,8 +152,8 @@
       <tuv lang="en">
         <seg>Across the board, the cast has received an overhaul, making the protagonists more likable, the enemies more menacing, and the twisting threads of the plot somewhat more coherent – all the while never losing what made the original story so fun in the first place.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T140235Z" creationid="david" creationdate="20230516T140235Z">
-        <seg>En general, todo el elenco ha sido renovado, haciendo que los protagonistas sean más simpáticos, los enemigos más amenazantes y los hilos entrelazados del argumento algo más coherentes, sin perder nunca lo que hacía que la historia original fuera tan divertida en primer lugar.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T095957Z" creationid="david" creationdate="20230516T140235Z">
+        <seg>En general, todo el elenco ha sido renovado, haciendo que los protagonistas sean más simpáticos, los enemigos más amenazantes y los hilos entrelazados de la trama, algo más coherentes, sin perder nunca lo que hacía que la historia original fuera tan divertida en primer lugar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +184,8 @@
       <tuv lang="en">
         <seg>All the while, monsters, gore, and death follow.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T135829Z" creationid="david" creationdate="20230516T135829Z">
-        <seg>Mientras tanto, los monstruos, el gore y la muerte te persiguen..</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T095305Z" creationid="david" creationdate="20230516T135829Z">
+        <seg>Todo eso mientras los monstruos, el "gore" y la muerte te persiguen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -232,8 +232,8 @@
       <tuv lang="en">
         <seg>And don't get me started on the game's brutally gross gore system; blasting off heads and arms and even shooting enemies entirely in half as blood flows like confetti out of a pinata has rarely looked this fantastically disgusting.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T134011Z" creationid="david" creationdate="20230516T134011Z">
-        <seg>Y no me hagás empezar con el sistema de gore brutalmente repugnante de este juego; volar cabezas y brazos e incluso partir en dos a los enemigos mientras la sangre fluye como confeti de una piñata rara vez se ha visto tan fantásticamente repugnante.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T094201Z" creationid="david" creationdate="20230516T134011Z">
+        <seg>Y no me hagas hablar del brutalmente repugnante sistema de "gore" de este juego; el hecho de arrancar cabezas y brazos e incluso partir en dos a los enemigos mientras la sangre fluye como el confeti de una piñata rara vez se ha visto tan fantásticamente asqueroso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -256,16 +256,16 @@
       <tuv lang="en">
         <seg>And much of that charm is retained here, but with the addition of much sharper writing and better characterization.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T140001Z" creationid="david" creationdate="20230516T140001Z">
-        <seg>Y mucho de ese encanto sigue aquí, pero con el añadido de una escritura más aguda y una mejor caracterización de personajes.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T095849Z" creationid="david" creationdate="20230516T140001Z">
+        <seg>Y gran parte de ese encanto sigue ahí, pero con el añadido de una escritura más aguda y una mejor caracterización de personajes.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>And so, while I think it can show you why Resident Evil 4 was fun, goofy, and endearing, if you're someone interested in just why this old game has such an enduring legacy – especially one strong enough to warrant such a massively expensive remake – your best bet is to still play the original, to try and put your mind in a pre-Resident Evil 4 world to understand how that game could change everything.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T142715Z" creationid="david" creationdate="20230516T142558Z">
-        <seg>Y así, aunque creo que puede mostrarnos por qué Resident Evil 4 era divertido, extravagante y entrañable, si estamos interesados en descubrir por qué este viejo juego tiene un legado perdurable, especialmente lo suficientemente sólido como para justificar una nueva versión tan costosa, la mejor opción sigue siendo jugar el original, intentar ponernos en la mentalidad de un mundo previo a Resident Evil 4 para entender cómo ese juego lo cambió todo.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T101506Z" creationid="david" creationdate="20230516T142558Z">
+        <seg>Así que, aunque creo que puede mostrarte por qué Resident Evil 4 era divertido, absurdo y entrañable, si te interesa saber por qué este viejo juego tiene un legado tan perdurable (sobre todo tan fuerte como para justificar un remake tan caro), lo mejor que puedes hacer es jugar al original para intentar poner tu mente en un mundo anterior a Resident Evil 4 y entender cómo ese juego pudo cambiarlo todo..</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,16 +312,16 @@
       <tuv lang="en">
         <seg>As a lifelong fan of the original, seeing some of my favorite levels and combat arenas recreated 1:1 on the PlayStation 5 was novel and fun.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T134352Z" creationid="david" creationdate="20230516T134352Z">
-        <seg>Como fan de toda la vida del original, ver algunos de mis niveles y arenas de combate favoritas recreadas al detalle en PlayStation 5 fue novedoso y divertido.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T095410Z" creationid="david" creationdate="20230516T134352Z">
+        <seg>Como un fan de toda la vida del original, ver algunos de mis niveles favoritos y arenas de combate recreadas a escala idéntica en PlayStation 5 fue novedoso y divertido.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>As great as this remake is – and let me reiterate, it's incredible – I do not think it will show you why Resident Evil 4 was so groundbreaking.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T142203Z" creationid="david" creationdate="20230516T142203Z">
-        <seg>Por muy bueno que sea esta nueva versión, y permitidme reiterar que es increíble, no creo que muestre por qué Resident Evil 4 fue tan innovador.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T101136Z" creationid="david" creationdate="20230516T142203Z">
+        <seg>Por muy genial que sea este remake (y permitidme reiterar que es increíble), no creo que te muestre por qué Resident Evil 4 fue tan rompedor..</seg>
       </tuv>
     </tu>
     <tu>
@@ -336,8 +336,8 @@
       <tuv lang="en">
         <seg>As it was in 2005, it's a punch-in-the-face type of opening, the game telling you this is how it will be from here on out; get used to it.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T131645Z" creationid="david" creationdate="20230516T131645Z">
-        <seg>Al igual que en 2005, es un puñetazo en la cara, el juego te dice que así es como va a ser a partir de ahora; acostúmbrate.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T093341Z" creationid="david" creationdate="20230516T131645Z">
+        <seg>Al igual que en 2005, esto es como un puñetazo en la cara, el juego te dice que así es como va a ser a partir de ahora; así que ajo y agua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,8 +360,8 @@
       <tuv lang="en">
         <seg>At that village, all hell breaks loose.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T135217Z" creationid="david" creationdate="20230516T135217Z">
-        <seg>En ese pueblo, se desata todo el infierno.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T095133Z" creationid="david" creationdate="20230516T135217Z">
+        <seg>En ese pueblo, se desata el infierno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,8 +392,8 @@
       <tuv lang="en">
         <seg>But as a love letter to one of the greatest games of all time, as a new historical artifact that reinforces why the source material was so landmark in the first place, this new trek through the Spanish countryside is as good as it gets and makes a great game that much better.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T143418Z" creationid="david" creationdate="20230516T143418Z">
-        <seg>Pero como una carta de amor a uno de los mejores juegos de todos los tiempos; como un nuevo artefacto histórico que refuerza por qué el material original fue tan innovador en primer lugar; este nuevo recorrido por la España rural es lo mejor que se puede ser y hace que un muy buen juego sea aún mejor.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T102234Z" creationid="david" creationdate="20230516T143418Z">
+        <seg>Pero como carta de amor a uno de los mejores juegos de todos los tiempos, como nuevo artefacto histórico que refuerza por qué el material original era tan emblemático en primer lugar, este nuevo viaje por la campiña española no puede ser mejor y hace de un gran juego algo mucho mejor</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +432,8 @@
       <tuv lang="en">
         <seg>But importantly, it doesn't overwrite its predecessor.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T143229Z" creationid="david" creationdate="20230516T143229Z">
-        <seg>Pero lo que es importante es que no invisibiliza a su predecesor.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T102025Z" creationid="david" creationdate="20230516T143229Z">
+        <seg>Pero lo más importante es que no anula a su predecesor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -504,8 +504,8 @@
       <tuv lang="en">
         <seg>Despite my constant anxiety, I had so much fun that I welcomed every major combat encounter.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T133533Z" creationid="david" creationdate="20230516T133533Z">
-        <seg>Pese a mi ansiedad constante, me lo estaba pasando tan bien que me alegraba cada gran enfrentamiento.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T094324Z" creationid="david" creationdate="20230516T133533Z">
+        <seg>Pese a mi ansiedad constante, me lo estaba pasando tan bien que recibía con los brazos abiertos cada gran enfrentamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -528,8 +528,8 @@
       <tuv lang="en">
         <seg>Especially by the time I unlocked the more powerful weapons – shoutout to my semi-automatic shotgun – blowing through scores of enemies felt fantastic.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T133811Z" creationid="david" creationdate="20230516T133811Z">
-        <seg>Especialmente cuando desbloqueé las armas más poderosas, un saludo a mi escopeta semiautomática, acabar con hordas de enemigos se sentía fantástico.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T093654Z" creationid="david" creationdate="20230516T133811Z">
+        <seg>Especialmente cuando desbloqueé las armas más poderosas (un saludo a mi escopeta semiautomática), ya que acabar con hordas de enemigos se sentía fantástico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -669,16 +669,16 @@
       <tuv lang="en">
         <seg>From a visual and level design perspective, the Resident Evil 4 remake knows precisely when to be nostalgic and when to be fresh.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T134249Z" creationid="david" creationdate="20230516T134249Z">
-        <seg>Desde una perspectiva visual y de diseño de niveles, el remake de Resident Evil 4 sabe exactamente cuándo ser nostálgico y cuándo ser fresco.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T095356Z" creationid="david" creationdate="20230516T134249Z">
+        <seg>Desde la perspectiva visual y de diseño de niveles, el remake de Resident Evil 4 sabe con precisión cuándo ser nostágico y cuándo ser fresco.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>From the jump, the remake overwhelms you with danger.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T131640Z" creationid="david" creationdate="20230516T131640Z">
-        <seg>Desde el salto, el remake te inunda de peligro.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T093245Z" creationid="david" creationdate="20230516T131640Z">
+        <seg>Desde el principio, el remake te inunda con el peligro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -693,8 +693,8 @@
       <tuv lang="en">
         <seg>Gameplay has been expanded – namely, you can walk and aim your gun at the same time now, as well as the aforementioned parrying and new melee options – which makes the already-great bones of RE4 feel modern and fresh.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T133644Z" creationid="david" creationdate="20230516T133644Z">
-        <seg>La jugabilidad se ha expandido, concretamente, ahora puedes caminar y apuntar con tu arma al mismo tiempo, además de los mencionados contraataques y nuevas opciones de combate cuerpo a cuerpo, lo cual hace que la base ya genial de RE4 se sienta moderna y fresca.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T094257Z" creationid="david" creationdate="20230516T133644Z">
+        <seg>La jugabilidad se ha expandido (concretamente, ahora puedes caminar y apuntar con tu arma al mismo tiempo, además de los mencionados contraataques y nuevas opciones de combate cuerpo a cuerpo), lo cual hace que la base ya genial de RE4 se sienta moderna y fresca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -741,16 +741,16 @@
       <tuv lang="en">
         <seg>I am a freak, and the Resident Evil 4 remake indulged my sick love of virtual gore.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T134154Z" creationid="david" creationdate="20230516T134154Z">
-        <seg>Soy un rarito y esa nueva versión de Resident evil 4 ha complacido mi amor enfermizo por el gore virtual.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T094231Z" creationid="david" creationdate="20230516T134154Z">
+        <seg>Soy un rarito y esa nueva versión de Resident Evil 4 ha complacido mi amor enfermizo por el "gore" virtual.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>I could write a metaphorical book about all the ways I love the Resident Evil 4 remake, but it might be simplest to tell you to look down at the score at the bottom of this page and sum it up like this: if you loved Resident Evil 4 in the past, you will love this remake.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T140343Z" creationid="david" creationdate="20230516T140343Z">
-        <seg>Podría escribir un libro metafórico sobre todas las formas en que amo esta nueva versión de Resident Evil 4, pero quizás sea más sencillo decirte que mires la puntuación en la parte inferior de esta página y resumirlo así: si amaste Resident Evil 4 en su momento, amarás este remake.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T100230Z" creationid="david" creationdate="20230516T140343Z">
+        <seg>Podría escribir un libro metafórico sobre todas las formas en las que adoro este remake de Resident Evil 4, pero quizás sea más sencillo decirte que mires la nota que le he puesto en la parte inferior de esta página y resumirlo así: si amaste Resident Evil 4 en su momento, amarás este remake.</seg>
       </tuv>
     </tu>
     <tu>
@@ -805,8 +805,8 @@
       <tuv lang="en">
         <seg>If anything, this new version reinforces why the original Resident Evil 4 is a game people should still seek out, play, or at least watch and learn about.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T143301Z" creationid="david" creationdate="20230516T143301Z">
-        <seg>Si acaso, esta nueva versión refuerza por qué el Resident Evil 4 original es un juego que las personas aún deberían buscar, jugar o al menos ver y aprender sobre él.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T102056Z" creationid="david" creationdate="20230516T143301Z">
+        <seg>En todo caso, esta nueva versión refuerza por qué el Resident Evil 4 original es un juego que la gente debería seguir buscando, jugando o, al menos, viendo y aprendiendo sobre él.</seg>
       </tuv>
     </tu>
     <tu>
@@ -901,8 +901,8 @@
       <tuv lang="en">
         <seg>It can't come out in the same time, space, and context as the first Resident Evil 4.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T142408Z" creationid="david" creationdate="20230516T142408Z">
-        <seg>No puede salir al mismo tiempo, espacio y contexto que el primer Resident Evil 4.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T101242Z" creationid="david" creationdate="20230516T142408Z">
+        <seg>No puede salir en la misma época, espacio y contexto que el primer Resident Evil 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -925,8 +925,8 @@
       <tuv lang="en">
         <seg>It just can't.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T142232Z" creationid="david" creationdate="20230516T142232Z">
-        <seg>Simplemente no ouede</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T101146Z" creationid="david" creationdate="20230516T142232Z">
+        <seg>Simplemente no puede</seg>
       </tuv>
     </tu>
     <tu>
@@ -941,8 +941,8 @@
       <tuv lang="en">
         <seg>It's a refinement, not a reinvention.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T143058Z" creationid="david" creationdate="20230516T143058Z">
-        <seg>Es un refinamiento, no una reinvención.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T101908Z" creationid="david" creationdate="20230516T143058Z">
+        <seg>Es un perfeccionamiento, no una reinvención.</seg>
       </tuv>
     </tu>
     <tu>
@@ -965,8 +965,8 @@
       <tuv lang="en">
         <seg>It's campy, goofy, and over-the-top.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T135917Z" creationid="david" creationdate="20230516T135917Z">
-        <seg>El juego es exagerado, tonto y excesivo..</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T095820Z" creationid="david" creationdate="20230516T135917Z">
+        <seg>El juego es ridículamente exagerado y desmesurado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -981,16 +981,16 @@
       <tuv lang="en">
         <seg>It's not only one of the best action games in recent memory; it's the best Resident Evil since, well, probably the original Resident Evil 4.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T131516Z" creationid="david" creationdate="20230516T131516Z">
-        <seg>No solo es uno de los mejores juegos de acción de los últimos tiempos, sino el mejor Resident Evil desde, bueno, probablemente el Resident Evil 4 original.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T102718Z" creationid="david" creationdate="20230516T131516Z">
+        <seg>No es solo uno de los mejores juegos de acción que se recuerden; es el mejor Resident Evil desde, probablemente, el Resident Evil 4 original.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Leon's nightmare takes him through the remote village, into the bowels of a baroque castle hoarded over by a ghoulish Napoleon wannabe, and then finally onto the shores of a military stronghold.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T135756Z" creationid="david" creationdate="20230516T135756Z">
-        <seg>La pesadilla de Leon lo lleva a través del remoto pueblo, hasta las entrañas de un castillo barroco dominado por un siniestro aspirante a Napoleón, y finalmente a las costas de una fortaleza militar.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T095219Z" creationid="david" creationdate="20230516T135756Z">
+        <seg>La pesadilla de Leon le lleva a través del remoto pueblo, a las entrañas de un castillo barroco acaparado por un macabro aspirante a Napoleón y, finalmente, a las costas de una fortaleza militar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1037,16 +1037,16 @@
       <tuv lang="en">
         <seg>Most importantly, he was slightly off-center to the left.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T141254Z" creationid="david" creationdate="20230516T141254Z">
-        <seg>Lo más importante es que estaba ligeramente descentrado hacia la izquierda.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T100819Z" creationid="david" creationdate="20230516T141254Z">
+        <seg>Y lo que es más importante, estaba ligeramente descentrada hacia la izquierda.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Nevertheless, I welcomed every new addition as much as I did the old standbys.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T134647Z" creationid="david" creationdate="20230516T134647Z">
-        <seg>Sin embargo, he recibido cada nueva adición tanto como lo hice con los elementos clásicos de siempre.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T095429Z" creationid="david" creationdate="20230516T134647Z">
+        <seg>No obstante, recibí de buena manera cada uno de los nuevos añadidos, igual que lo hice con las partes de siempre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1093,16 +1093,16 @@
       <tuv lang="en">
         <seg>Or better, you can watch a few minutes of a Let's Play or read one of the thousands of articles about it.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T142818Z" creationid="david" creationdate="20230516T142818Z">
-        <seg>O mejor, podemos ver unos minutos de un gameplay o leer uno de los cientos de artículo al respecto. </seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T101747Z" creationid="david" creationdate="20230516T142818Z">
+        <seg>O mejor aún, puedes ver unos cuantos minutos de un gameplay o leer uno de los miles de artículos que hay sobre el juego. </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Perhaps the most elbow grease went into rewriting the game's story, though the narrative beats are all the same.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T134944Z" creationid="david" creationdate="20230516T134944Z">
-        <seg>Quizás el mayor esfuerzo se invirtió en reescribir la historia del juego, aunque los momentos clave de la narrativa siguen siendo los mismos.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T094947Z" creationid="david" creationdate="20230516T134944Z">
+        <seg>Quizás el mayor esfuerzo fue reescribir la historia del juego, por mucho los momentos clave de la trama sigan siendo los mismos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1131,6 +1131,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Popular Content</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T102616Z" creationid="snaxi" creationdate="20230518T102616Z">
+        <seg>Lo más popular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Products In This Article</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T102405Z" creationid="snaxi" creationdate="20230518T102405Z">
+        <seg>Productos en este artículo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Purchase</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T144621Z" creationid="david" creationdate="20230516T144621Z">
@@ -1141,8 +1157,8 @@
       <tuv lang="en">
         <seg>Quickly following any mention of the original Resident Evil 4 is discussion of its camera.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T141054Z" creationid="david" creationdate="20230516T141054Z">
-        <seg>Rápidamente, después de cualquier mención del Resident Evil 4 original, viene la discusión de su cámara.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T100724Z" creationid="david" creationdate="20230516T141054Z">
+        <seg>Cuando hay cualquier mención al Resident Evil 4 original, enseguida se habla de su cámara..</seg>
       </tuv>
     </tu>
     <tu>
@@ -1157,8 +1173,8 @@
       <tuv lang="en">
         <seg>Rather than the fixed camera angles of its predecessors, the original game placed the camera behind Leon's back.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T141127Z" creationid="david" creationdate="20230516T141127Z">
-        <seg>En lugar de los ángulos de cámara fijos de sus predecesores, el juego original colocaba la cámara detrás de la espalda de Leon.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T100754Z" creationid="david" creationdate="20230516T141127Z">
+        <seg>En lugar de los ángulos de cámara fijos de sus predecesores, el juego original colocaba la cámara a espaldas de Leon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1189,16 +1205,16 @@
       <tuv lang="en">
         <seg>Resident Evil 4 (Remake) Review - Refinement, Not Reinvention - Game Informer</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T145102Z" creationid="david" creationdate="20230516T145102Z">
-        <seg>Resident Evil 4 (Remake) Análisis - Refinamiento, no reinvención - Game Informer</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T102709Z" creationid="david" creationdate="20230516T145102Z">
+        <seg>Resident Evil 4 (Remake) Análisis - Perfeccionamiento, no reinvención - Game Informer</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Resident Evil 4 changed the shape of the game industry.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T142029Z" creationid="david" creationdate="20230516T142029Z">
-        <seg>Resident Evil 4 cambió la forma de la industria de los videojuegos.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T101016Z" creationid="david" creationdate="20230516T142029Z">
+        <seg>Resident Evil 4 cambió la forma de la industria del videojuego..</seg>
       </tuv>
     </tu>
     <tu>
@@ -1269,8 +1285,8 @@
       <tuv lang="en">
         <seg>Somewhat ironically, it's only as good as it is now because it exists in a post-Resident Evil 4 world.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T142501Z" creationid="david" creationdate="20230516T142501Z">
-        <seg>De manera algo irónica, es tan bueno como lo es ahora porque existe en un mundo posterior a Resident Evil 4.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T101306Z" creationid="david" creationdate="20230516T142501Z">
+        <seg>De manera algo irónica, solo es tan bueno como lo es ahora porque existe en un mundo posterior a Resident Evil 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1293,24 +1309,24 @@
       <tuv lang="en">
         <seg>That the game maintains this tight-gripped action until the credits roll is a feat of game pacing.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T133341Z" creationid="david" creationdate="20230516T133341Z">
-        <seg>Que el juego mantenga esta acción intensa hasta que aparezcan los créditos es un logro en cuanto su estructura.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T093410Z" creationid="david" creationdate="20230516T133341Z">
+        <seg>Que el juego mantenga esta acción intensa hasta que aparecen los créditos es un logro en cuanto su estructura.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>That the next room might be a complete remix or reinvention of a different area, however, kept me on my toes, as if I knew the subject of the painting, but all the details were in new colors.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T134507Z" creationid="david" creationdate="20230516T134507Z">
-        <seg>El hecho de que la siguiente habitación pudiera ser una completa remezcla o reinterpretación de un área diferente me mantuvo alerta, como si conociera el tema del cuadro, pero todos los detalles estuvieran en nuevos colores.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T095420Z" creationid="david" creationdate="20230516T134507Z">
+        <seg>En cambio, que la siguiente habitación fuera una completa mezcla o reinvención de un área distinta, me mantuvo alerta, como si conociese el tema del cuadro, pero todos los detalles hubiesen cambiado de color.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>That will make playing the remake a much richer experience; you can see decades of lessons learned throughout the game industry about how to make a third-person action game thrilling, fun, and mechanically effective reapplied to the source material.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T143020Z" creationid="david" creationdate="20230516T143020Z">
-        <seg>Eso hará que jugar la nueva versión sea una experiencia mucho más enriquecedora; podremos ver décadas de lecciones aprendidas en la industria de los videojuegos sobre cómo hacer que un juego de acción en tercera persona sea emocionante, divertido y mecánicamente efectivo, aplicadas nuevamente al material original.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T101855Z" creationid="david" creationdate="20230516T143020Z">
+        <seg>Eso hará que jugar al remake sea una experiencia mucho más enriquecedora; podrás ver décadas de lecciones aprendidas en la industria del videojuego sobre cómo hacer que un juego de acción en tercera persona sea emocionante, divertido y efectivo mecánicamente reaplicadas al material original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1325,8 +1341,8 @@
       <tuv lang="en">
         <seg>The Resident Evil 4 remake is about everything I could've wanted.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T143204Z" creationid="david" creationdate="20230516T143204Z">
-        <seg>El remake de Resident Evil 4 es todo lo que podría haber deseado.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T102012Z" creationid="david" creationdate="20230516T143204Z">
+        <seg>El remake de Resident Evil 4 es casi todo lo que podría haber querido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1349,8 +1365,8 @@
       <tuv lang="en">
         <seg>The faithfully recreated "village" section throws dozens of enemies your way, requiring you to handle the numerous combat scenarios or die quickly.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T131642Z" creationid="david" creationdate="20230516T131642Z">
-        <seg>La sección de la "aldea", fielmente recreada, te lanza docenas de enemigos, que te obligan a manejar los numerosos escenarios de combate o a morir rápidamente.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T093306Z" creationid="david" creationdate="20230516T131642Z">
+        <seg>La sección de la "aldea", fielmente recreada, te lanza docenas de enemigos, lo cual te obliga a manejar los numerosos escenarios de combate o a morir rápidamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1413,8 +1429,8 @@
       <tuv lang="en">
         <seg>There's no universe where this game will ever be as important as the game it remakes.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T142318Z" creationid="david" creationdate="20230516T142318Z">
-        <seg>No hay universo en el que este juego sea tan importante como el juego original.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T101211Z" creationid="david" creationdate="20230516T142318Z">
+        <seg>No hay universo en el que este juego vaya a ser tan importante como el juego original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1453,8 +1469,8 @@
       <tuv lang="en">
         <seg>This perspective is, of course, the template for almost every third-person video game that came after.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T141918Z" creationid="david" creationdate="20230516T141900Z">
-        <seg>Esta perspectiva, por supuesto, es la plantilla para casi todos los videojuegos en tercera persona que vinieron después.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T100931Z" creationid="david" creationdate="20230516T141900Z">
+        <seg>Esta perspectiva es, por supuesto, la plantilla para casi todos los videojuegos en tercera persona que vinieron después.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1565,8 +1581,8 @@
       <tuv lang="en">
         <seg>What it lacks, however, is context.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T140923Z" creationid="david" creationdate="20230516T140923Z">
-        <seg>Lo que falta, sin embargo, es el contexto.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T100330Z" creationid="david" creationdate="20230516T140923Z">
+        <seg>Lo que le falta, sin embargo, es contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1605,8 +1621,8 @@
       <tuv lang="en">
         <seg>When he aimed, you looked directly over his right shoulder.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T141328Z" creationid="david" creationdate="20230516T141328Z">
-        <seg>Cuando apuntaba, tú veías directamente por encima de su hombro derecho</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T100854Z" creationid="david" creationdate="20230516T141328Z">
+        <seg>Cuando él apuntaba, veías directamente por encima de su hombro derecho</seg>
       </tuv>
     </tu>
     <tu>
@@ -1637,16 +1653,16 @@
       <tuv lang="en">
         <seg>You play as Leon Kennedy, now a special agent of the United States president sent to a remote Spanish village in search of the president's missing daughter, Ashley Graham.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T135157Z" creationid="david" creationdate="20230516T135157Z">
-        <seg>Juegas como Leon Kennedy, ahora un agente especial del presidente de Estados Unidos enviado a un remoto pueblo español en busca de la hija desaparecida del presidente, Ashley Graham.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T095118Z" creationid="david" creationdate="20230516T135157Z">
+        <seg>Juegas como Leon Kennedy, el cual es ahora un agente especial del presidente de los Estados Unidos y que es enviado a un remoto pueblo español en busca de la hija desaparecida del presidente, Ashley Graham.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>You're soon confronted by scores of angry locals infected by a parasite, Las Plagas, making them easy for the game's main antagonist to control without completely losing their mental faculties.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="david" changedate="20230516T135722Z" creationid="david" creationdate="20230516T135722Z">
-        <seg>Pronto te enfrentas a multitudes de lugareños enfurecidos infectados por un parásito llamado Las Plagas, lo que facilita al antagonista principal del juego controlarlos sin que pierdan por completo sus facultades mentales.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230518T095207Z" creationid="david" creationdate="20230516T135722Z">
+        <seg>En seguida te ves enfrentado a hordas de habitantes furiosos infectados por un parásito, Las Plagas, que los hace fáciles de controlar por el antagonista principal del juego sin hacerles perder por completo sus facultades mentales.</seg>
       </tuv>
     </tu>
     <tu>
