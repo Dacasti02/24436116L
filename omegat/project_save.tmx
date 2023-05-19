@@ -1849,14 +1849,6 @@
         <seg>por &lt;a0&gt;Blake Hester&lt;/a0&gt; el 17 de marzo de 2023 a las 02:01 AM</seg>
       </tuv>
     </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>ltr</seg>
-      </tuv>
-      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T141231Z" creationid="mariaarpaperez" creationdate="20230516T141231Z">
-        <seg>l</seg>
-      </tuv>
-    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
