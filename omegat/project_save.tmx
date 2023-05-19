@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Suzuki:&lt;/s0&gt; I share the same feelings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T135840Z" creationid="mariaarpaperez" creationdate="20230519T135840Z">
+        <seg>&lt;s0&gt;Suzuki:&lt;/s0&gt; Pienso lo mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Suzuki:&lt;/s0&gt; The fights with the enemies in the remake of the RE4 are very interactive.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T184207Z" creationid="mariaarpaperez" creationdate="20230516T184207Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T083355Z" creationid="mariaarpaperez" creationdate="20230517T083355Z">
         <seg>Además, en la nueva versión usamos una función llamada portal de sala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, the original RE4 had a balance of horror and drama and as a whole, was a highly entertaining experience.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T135918Z" creationid="mariaarpaperez" creationdate="20230519T135918Z">
+        <seg>Además, el RE4 original tenía un equilibrio entre terror y drama y, en conjunto, era una experiencia muy entretenida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +426,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T134819Z" creationid="mariaarpaperez" creationdate="20230519T134819Z">
         <seg>Battlefield, o Call of Duty, cosas así.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Be sure to click the banner below to visit our Resident Evil 4 cover story hub filled with exclusive features and videos.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T141619Z" creationid="mariaarpaperez" creationdate="20230519T141619Z">
+        <seg>No dejes de hacer clic en la siguiente caja para visitar nuestra portada de Resident Evil 4, repleta de artículos y vídeos exclusivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -839,6 +863,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T172311Z" creationid="mariaarpaperez" creationdate="20230516T172311Z">
         <seg>Pensé mucho qué coger del original y qué añadir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I hope the players feel that and that when they complete the game, they look back and can say it was both scary and fun.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T140109Z" creationid="mariaarpaperez" creationdate="20230519T140109Z">
+        <seg>Espero que los jugadores tengan esa sensación y que para cuando acaben le juego puedan mirar atrás y decir que fue escalofriante a la vez que divertido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1655,6 +1687,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T142745Z" creationid="mariaarpaperez" creationdate="20230517T142745Z">
         <seg>Lo implementamos en el motor de RE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We recreated that balance while updating the game to the high level of modern standards.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T135942Z" creationid="mariaarpaperez" creationdate="20230519T135942Z">
+        <seg>Hemos recreado ese equilibrio al tiempo que actualizábamos el juego al alto nivel de los estándares modernos.</seg>
       </tuv>
     </tu>
     <tu>
