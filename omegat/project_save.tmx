@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Tamura:&lt;/s0&gt; For fans that played the original RE4, I hope they feel a sense of comfort [and] understand just how much care we paid to the original as we created this remake.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T135700Z" creationid="mariaarpaperez" creationdate="20230519T135700Z">
+        <seg>&lt;s0&gt;Tamura:&lt;/s0&gt; Espero que los fans de la versión original de RE4 se sientan reconfortados y además comprendan el cuidado que hemos puesto en el original a la hora de crear esta nueva versión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Tamura:&lt;/s0&gt; I play games, so when I think about sounds, I find myself thinking of games.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T144542Z" creationid="mariaarpaperez" creationdate="20230517T144542Z">
@@ -634,6 +642,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185019Z" creationid="mariaarpaperez" creationdate="20230516T185019Z">
         <seg>Por ejemplo, tenemos definiciones para estados como "sin enemigos", "enemigo cerca, pero no se ha dado cuenta de la presencia del jugador", o el estado neutral, de advertencia o de batalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For players who are playing RE4 for the first time with this remake, I hope they feel the quality of this remake aligns with things like the RE2 remake and Village, which were regarded very highly.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T135829Z" creationid="mariaarpaperez" creationdate="20230519T135829Z">
+        <seg>Para los jugadores que jueguen a RE4 por primera vez con esta nueva versión, espero que sientan que tiene una calidad a la altura de la nueva versión de RE2 y Village, que fueron muy bien acogidas.</seg>
       </tuv>
     </tu>
     <tu>
