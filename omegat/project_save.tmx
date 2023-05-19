@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -370,6 +370,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T151721Z" creationid="mariaarpaperez" creationdate="20230516T151721Z">
         <seg>Al mismo tiempo, lanzamos la nueva versión en 2023 como si fuese un juego nuevo, con lo último en tecnología.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Battlefield, or Call of Duty, things like that.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T134819Z" creationid="mariaarpaperez" creationdate="20230519T134819Z">
+        <seg>Battlefield, o Call of Duty, cosas así.</seg>
       </tuv>
     </tu>
     <tu>
@@ -791,6 +799,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T172208Z" creationid="mariaarpaperez" creationdate="20230516T172208Z">
         <seg>He sido un fan de RE4 desde el original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I've seen some of the sessions where they've spoken at GDC, and a lot of it impresses me.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T134918Z" creationid="mariaarpaperez" creationdate="20230519T134918Z">
+        <seg>He visto algunas de las sesiones en las que han intervenido en la GDC, y muchas de ellas me impresionan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1567,6 +1583,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T151247Z" creationid="mariaarpaperez" creationdate="20230516T151247Z">
         <seg>Nosotros, por supuesto, tenemos que ser conscientes de ello y tratar el sonido de RE4 con el respeto que los fans quieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What I like about the sounds, particularly for Battlefield, is the in-house HDR audio engine DICE uses; the dynamic range is so skillfully used.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T134853Z" creationid="mariaarpaperez" creationdate="20230519T134853Z">
+        <seg>Lo que más me gusta de los sonidos, sobre todo de Battlefield, es el motor de audio HDR interno que utiliza DICE.</seg>
       </tuv>
     </tu>
     <tu>
