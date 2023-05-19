@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>(laughs)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T135127Z" creationid="mariaarpaperez" creationdate="20230519T135127Z">
+        <seg>(risas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Also on&lt;/s0&gt; Xbox Series X/S, PlayStation VR2, PlayStation 4, PC</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T143714Z" creationid="david" creationdate="20230516T143714Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T184207Z" creationid="mariaarpaperez" creationdate="20230516T184207Z">
         <seg>&lt;s0&gt;Suzuki:&lt;/s0&gt; Los combates con los enemigos en la nueva versión de RE4 son muy interactivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Suzuki:&lt;/s0&gt; There's a lot of music that I like and listen to.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T135158Z" creationid="mariaarpaperez" creationdate="20230519T135158Z">
+        <seg>&lt;s0&gt;Suzuki:&lt;/s0&gt; Hay un montón de música que me gusta y escucho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -314,6 +330,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230518T095410Z" creationid="david" creationdate="20230516T134352Z">
         <seg>Como un fan de toda la vida del original, ver algunos de mis niveles favoritos y arenas de combate recreadas a escala idéntica en PlayStation 5 fue novedoso y divertido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a personal hobby, these games interest me.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T135118Z" creationid="mariaarpaperez" creationdate="20230519T135118Z">
+        <seg>Como afición personal, estos juegos me interesan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -574,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For gunshot sounds, I really like the ones in Ubisoft's The Division.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T135011Z" creationid="mariaarpaperez" creationdate="20230519T135011Z">
+        <seg>Para los sonidos de disparos, me gustan mucho los de The Division de Ubisoft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, the save theme, the merchant music; those are arrangments of the original music in the RE4.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T173341Z" creationid="mariaarpaperez" creationdate="20230516T173341Z">
@@ -655,6 +687,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T181627Z" creationid="mariaarpaperez" creationdate="20230516T181627Z">
         <seg>Cuando empecé a hacer música para el pueblo, utilizaba un enfoque híbrido, con sintetizadores modernos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For things that inspire me, I would say that's usually the music from movies and dramas.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T135219Z" creationid="mariaarpaperez" creationdate="20230519T135219Z">
+        <seg>En cuanto a lo que me inspira, diría que suele ser la música de películas y dramas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1359,6 +1399,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230518T102012Z" creationid="david" creationdate="20230516T143204Z">
         <seg>El remake de Resident Evil 4 es casi todo lo que podría haber querido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The UI sounds, the gunshots, and the interactivity of the background music.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T135039Z" creationid="mariaarpaperez" creationdate="20230519T135039Z">
+        <seg>Los sonidos de la interfaz de usuario, los disparos y la interactividad de la música de fondo.</seg>
       </tuv>
     </tu>
     <tu>
