@@ -615,6 +615,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developing a keen eye for detail is also vital for solving Village's handful of environmental puzzles.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T092203Z" creationid="snaxi" creationdate="20230531T092203Z">
+        <seg>Desarrollar buen ojo para los detalles también es vital para resolver el puñado de puzles ambientales de Village.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doing this allows sound occlusion and diffraction to be naturally stimulated.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T135330Z" creationid="mariaarpaperez" creationdate="20230517T135330Z">
@@ -664,6 +672,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even after I’d stumbled into the solution, it still took me a while to work out the underlying logic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T092702Z" creationid="snaxi" creationdate="20230531T092702Z">
+        <seg>Incluso después de dar con la solución, tardé un rato en descifrar la lógica subyacente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finding a balance between those two aspects to produce RE4's sound is a difficult task, but that's the goal we, the sound team, set when we created the sound for this game.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T151811Z" creationid="mariaarpaperez" creationdate="20230516T151811Z">
@@ -684,6 +700,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T135500Z" creationid="mariaarpaperez" creationdate="20230519T135500Z">
         <seg>De Star Wars me encanta el episodio 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, I had to brute force my way through one puzzle that involved rotating statues, because its clues were misleading.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T092648Z" creationid="snaxi" creationdate="20230531T092610Z">
+        <seg>Por ejemplo, tuve que forzarme a resolver el puzle de las estatuas giratorias, porque sus pistas eran engañosas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -945,6 +969,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T140109Z" creationid="mariaarpaperez" creationdate="20230519T140109Z">
         <seg>Espero que los jugadores tengan esa sensación y que para cuando acaben le juego puedan mirar atrás y decir que fue escalofriante a la vez que divertido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I love how these puzzles offer a much-needed tension release, and most of Village’s puzzles left me feeling clever.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T092238Z" creationid="snaxi" creationdate="20230531T092238Z">
+        <seg>Me encanta cómo estos rompecabezas ofrecen una liberación de tensión muy necesaria, y la mayoría me dejaron con una sensación de inteligencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1817,6 +1849,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T144622Z" creationid="mariaarpaperez" creationdate="20230516T144622Z">
         <seg>Para comprender cómo la nueva versión remezcla y mejora el campo sonoro del juego original, contacté con el director de sonido de RE4, Hiroshi Tamura, y con el compositor principal, Kota Suzuki, para saber cómo lo hacen para que el juego suene tan bien como se juega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unfortunately, a couple of puzzle solutions are obscured by fuzzy logic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T092310Z" creationid="snaxi" creationdate="20230531T092310Z">
+        <seg>Por desgracia, un par de soluciones están oscurecidas por una lógica difusa.</seg>
       </tuv>
     </tu>
     <tu>
