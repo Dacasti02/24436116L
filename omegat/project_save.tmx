@@ -901,6 +901,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, some items are better hidden than others.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T091616Z" creationid="snaxi" creationdate="20230531T091616Z">
+        <seg>Sin embargo, algunos objetos están mejor escondidos que otros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I am a freak, and the Resident Evil 4 remake indulged my sick love of virtual gore.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230518T094231Z" creationid="david" creationdate="20230516T134154Z">
@@ -1197,6 +1205,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Like previous Resident Evil games, Village’s map does a stellar job communicating which rooms have been cleared out and which still contain a few hidden treasures.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T091559Z" creationid="snaxi" creationdate="20230531T091559Z">
+        <seg>Al igual que en anteriores juegos de Resident Evil, el mapa de Village hace un trabajo estelar a la hora de comunicarnos qué habitaciones han sido vaciadas y cuáles contienen todavía algunos tesoros ocultos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Making the sound feel good, as well as keeping a sense of reality, in addition to having those two points coexist with each other, were some areas that we gave a lot of care to.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T150653Z" creationid="mariaarpaperez" creationdate="20230516T150653Z">
@@ -1289,6 +1305,22 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185959Z" creationid="mariaarpaperez" creationdate="20230516T185959Z">
         <seg>A menudo eso también desactiva todos los sonidos que el objeto haría, .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the one hand, Village encouraged me to pour over its intricately detailed environments with a fine-toothed comb; I enjoyed most of these scavenger hunts, and checking a room off my map was always satisfying.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T091746Z" creationid="snaxi" creationdate="20230531T091746Z">
+        <seg>Por un lado, Village me animó a examinar sus tan detallados entornos hasta el más mínimo detalle; disfruté de la mayoría de estas búsquedas del tesoro y el hecho de comprobar una habitación de mi mapa siempre fue satisfactorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the other hand, a few items remained stubbornly hidden even after several minutes of scouring, so trying to find every item in every room became a little tedious.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T091817Z" creationid="snaxi" creationdate="20230531T091817Z">
+        <seg>Por otro lado, algunos objetos permanecían ocultos incluso tras varios minutos de búsqueda, por lo que intentar encontrar todos los objetos de todas las habitaciones se convirtió en una tarea tediosa..</seg>
       </tuv>
     </tu>
     <tu>
