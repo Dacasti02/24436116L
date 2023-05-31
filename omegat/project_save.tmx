@@ -633,8 +633,16 @@
       <tuv lang="en">
         <seg>Ethan Winters discovers this within minutes of setting foot in this isolated village at the foot of a medieval castle.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T084755Z" creationid="snaxi" creationdate="20230531T084712Z">
-        <seg>Ethan Winters lo descubre tras unos minutos de poner los pies en esta aldea desolada a los pies de un castillo medieval.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090335Z" creationid="snaxi" creationdate="20230531T084712Z">
+        <seg>Ethan Winters lo descubre tras unos minutos después de haber puesto los pies en esta aldea desolada a los pies de un castillo medieval.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ethan’s journey forces him to explore a ramshackle shantytown, blood-soaked wine cellars, and a creepy mansion littered with animated porcelain dolls.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090524Z" creationid="snaxi" creationdate="20230531T090524Z">
+        <seg>El viaje de Ethan le obliga a explorar un destartalado barrio de chabolas, bodegas empapadas de sangre y una espeluznante mansión repleta de muñecas de porcelana con vida propia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1212,6 +1220,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>My stomach lurched as a deformed baby-like mutation chased me through a dimly lit basement, and I had to stop and catch my breath after a harrowing shootout with a snarling truck-sized hound.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090557Z" creationid="snaxi" creationdate="20230531T090557Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nevertheless, I welcomed every new addition as much as I did the old standbys.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230518T095429Z" creationid="david" creationdate="20230516T134647Z">
@@ -1664,6 +1680,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185612Z" creationid="mariaarpaperez" creationdate="20230516T185612Z">
         <seg>Creo que este tipo de cosas contribuyen a que la tensión de la música coincida más que nunca con los sentimientos del jugador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These locales are perfect backdrops for a series of blood-curdling encounters.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090549Z" creationid="snaxi" creationdate="20230531T090549Z">
+        <seg>Estos lugares son el telón de fondo perfecto para una serie de encuentros espeluznantes..</seg>
       </tuv>
     </tu>
     <tu>
