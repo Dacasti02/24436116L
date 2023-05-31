@@ -639,6 +639,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ethan slowly amasses the usual assortment of shotguns, pistols, and grenade launchers to combat this assortment of otherworldly horrors.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090859Z" creationid="snaxi" creationdate="20230531T090859Z">
+        <seg>Ethan acumula poco a poco el surtido habitual de escopetas, pistolas y lanzagranadas para combatir a este surtido de horrores de otro mundo.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ethan’s journey forces him to explore a ramshackle shantytown, blood-soaked wine cellars, and a creepy mansion littered with animated porcelain dolls.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090524Z" creationid="snaxi" creationdate="20230531T090524Z">
@@ -1222,8 +1231,8 @@
       <tuv lang="en">
         <seg>My stomach lurched as a deformed baby-like mutation chased me through a dimly lit basement, and I had to stop and catch my breath after a harrowing shootout with a snarling truck-sized hound.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090557Z" creationid="snaxi" creationdate="20230531T090557Z">
-        <seg>.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090728Z" creationid="snaxi" creationdate="20230531T090557Z">
+        <seg>Se me revolvió el estómago cuando una mutación con aspecto de bebé deforme me persiguió por un sótano en penumbra. También tuve que detenerme para recuperar el aliento tras un angustioso tiroteo con un sabueso que gruñía del tamaño de un camión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1686,8 +1695,8 @@
       <tuv lang="en">
         <seg>These locales are perfect backdrops for a series of blood-curdling encounters.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090549Z" creationid="snaxi" creationdate="20230531T090549Z">
-        <seg>Estos lugares son el telón de fondo perfecto para una serie de encuentros espeluznantes..</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090602Z" creationid="snaxi" creationdate="20230531T090549Z">
+        <seg>Estos lugares son el telón de fondo perfecto para una serie de encuentros espeluznantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1760,6 +1769,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090153Z" creationid="snaxi" creationdate="20230531T090153Z">
         <seg>Village no se anda con rodeos cuando se trata de terror, pero un despliegue constante de nuevas armas y herramientas hace que sea difícil alejarse de estos terrores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Village’s environment and enemy design are superb, making it one of the scariest Resident Evil games to date.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090804Z" creationid="snaxi" creationdate="20230531T090804Z">
+        <seg>El diseño del entorno y los enemigos de Village es soberbio, lo que lo convierte en uno de los juegos de Resident Evil más aterradores hasta la fecha.</seg>
       </tuv>
     </tu>
     <tu>
