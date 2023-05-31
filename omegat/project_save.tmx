@@ -79,6 +79,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Release&lt;/s0&gt; &lt;t1&gt;May 7, 2021&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T094805Z" creationid="snaxi" creationdate="20230531T094805Z">
+        <seg>&lt;s0&gt;Lanzamiento&lt;/s0&gt; &lt;t1&gt;7 de mayo de 2021&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Reviewed on&lt;/s0&gt; PlayStation 5</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T143647Z" creationid="david" creationdate="20230516T143647Z">
@@ -708,6 +716,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230531T092702Z" creationid="snaxi" creationdate="20230531T092702Z">
         <seg>Incluso después de dar con la solución, tardé un rato en descifrar la lógica subyacente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expect a slow-paced shooter, but the tension remains incredibly high, and the gunplay feels great</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T094628Z" creationid="snaxi" creationdate="20230531T094628Z">
+        <seg>
+Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíblemente alta y la jugabilidad con las armas es fantástica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1365,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moderately High</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T094700Z" creationid="snaxi" creationdate="20230531T094700Z">
+        <seg>Moderadamente alta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More Info</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T144651Z" creationid="david" creationdate="20230516T144625Z">
@@ -1585,6 +1610,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T144601Z" creationid="david" creationdate="20230516T144601Z">
         <seg>Fecha de lanzamiento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replay</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T094637Z" creationid="snaxi" creationdate="20230531T094637Z">
+        <seg>Rejugabilidad</seg>
       </tuv>
     </tu>
     <tu>
