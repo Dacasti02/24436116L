@@ -14,6 +14,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Resident Evil Village’s&lt;/a0&gt; opening hour establishes an incredibly tense tone, weaving together moody, atmospheric horror with rollercoaster firefights that leave Ethan within an inch of his life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T084953Z" creationid="snaxi" creationdate="20230531T084953Z">
+        <seg>La primera hora de Resident Evil Village establece un tono increíblemente tenso, entremezclando un horror atmosférico y tenebroso con tiroteos que dejan a Ethan al borde de la muerte.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Also on&lt;/s0&gt; Xbox Series X/S, PlayStation VR2, PlayStation 4, PC</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T143714Z" creationid="david" creationdate="20230516T143714Z">
@@ -338,6 +347,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T155329Z" creationid="mariaarpaperez" creationdate="20230516T155329Z">
         <seg>También hay sonidos meteorológicos, como el de la lluvia al caer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And, like an ultramarathon runner, Village maintains this thrilling pace until its closing credits.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T085053Z" creationid="snaxi" creationdate="20230531T085053Z">
+        <seg>Y, como si de un corredor de ultramaratón se tratase, Village mantiene este ritmo trepidante hasta los créditos finales.</seg>
       </tuv>
     </tu>
     <tu>
