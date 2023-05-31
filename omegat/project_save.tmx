@@ -1238,8 +1238,8 @@
       <tuv lang="en">
         <seg>Not all monsters hide in the shadows.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T084604Z" creationid="snaxi" creationdate="20230531T084604Z">
-        <seg>No todos los monstruos se esconden en las sombras.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090309Z" creationid="snaxi" creationdate="20230531T084604Z">
+        <seg>No todos los monstruos se esconden entre las sombras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1406,8 +1406,8 @@
       <tuv lang="en">
         <seg>Resident Evil Village Review - Resident Evil Village Review – Painting The Ghost Town Red - Game Informer</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T085825Z" creationid="snaxi" creationdate="20230531T085825Z">
-        <seg>Reseña de Resident Evil Villageinting The Ghost Town Red - Game Informer</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090111Z" creationid="snaxi" creationdate="20230531T085825Z">
+        <seg>Reseña de Resident Evil Village - Reseña de Resident Evil Village - Teñir la ciudad fantasma de rojo - Game Informer</seg>
       </tuv>
     </tu>
     <tu>
@@ -1728,6 +1728,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T135653Z" creationid="mariaarpaperez" creationdate="20230517T135653Z">
         <seg>Usando el portal de la habitación en el juego, ese efecto se puede replicar en el juego, y sonará como si la voz del enemigo viniera de la dirección de la puerta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Village doesn’t pull any punches when it comes to horror, but a consistent rollout of new weapons and tools makes it hard to walk away from these terrors.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090153Z" creationid="snaxi" creationdate="20230531T090153Z">
+        <seg>Village no se anda con rodeos cuando se trata de terror, pero un despliegue constante de nuevas armas y herramientas hace que sea difícil alejarse de estos terrores.</seg>
       </tuv>
     </tu>
     <tu>
