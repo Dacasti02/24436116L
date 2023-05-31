@@ -821,6 +821,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fortunately, even a cursory search of each room yields enough gear to get you through the trials ahead.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T091913Z" creationid="snaxi" creationdate="20230531T091841Z">
+        <seg>Afortunadamente, incluso una búsqueda superficial en cada habitación proporciona suficiente equipación para superar las pruebas que te esperan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From a technical standpoint, every area in the game exists as one of these rooms.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230517T143758Z" creationid="mariaarpaperez" creationdate="20230517T143758Z">
@@ -1319,8 +1327,8 @@
       <tuv lang="en">
         <seg>On the other hand, a few items remained stubbornly hidden even after several minutes of scouring, so trying to find every item in every room became a little tedious.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T091817Z" creationid="snaxi" creationdate="20230531T091817Z">
-        <seg>Por otro lado, algunos objetos permanecían ocultos incluso tras varios minutos de búsqueda, por lo que intentar encontrar todos los objetos de todas las habitaciones se convirtió en una tarea tediosa..</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T091853Z" creationid="snaxi" creationdate="20230531T091817Z">
+        <seg>Por otro lado, algunos objetos permanecían ocultos incluso tras varios minutos de búsqueda, por lo que intentar encontrar todos los objetos de todas las habitaciones se convirtió en una tarea algo tediosa.</seg>
       </tuv>
     </tu>
     <tu>
