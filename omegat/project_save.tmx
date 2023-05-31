@@ -31,6 +31,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Also on&lt;/s0&gt; Xbox Series X/S, PlayStation VR2, PlayStation 4, Xbox One, Switch, PC, Mac</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T094822Z" creationid="snaxi" creationdate="20230531T094822Z">
+        <seg>&lt;s0&gt;También en&lt;/s0&gt; Xbox Series X/S, PlayStation VR2, PlayStation 4, Xbox One, Switch, PC, Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Developer&lt;/s0&gt; Capcom</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T143950Z" creationid="david" creationdate="20230516T143950Z">
@@ -611,6 +619,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230531T094505Z" creationid="snaxi" creationdate="20230531T094505Z">
         <seg>La inquietante banda sonora de Capcom hace que la sangre te vibre y el doblaje es sólido, pero Ethan parece quedarse sin aliento constantemente, lo que resulta un poco molesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Out All Of Our Exclusive Information On Resident Evil Village</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T094915Z" creationid="snaxi" creationdate="20230531T094915Z">
+        <seg>Descubre toda la información exclusiva de Resident Evil Village</seg>
       </tuv>
     </tu>
     <tu>
