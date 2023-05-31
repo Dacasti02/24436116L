@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ethan Winters discovers this within minutes of setting foot in this isolated village at the foot of a medieval castle.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T084755Z" creationid="snaxi" creationdate="20230531T084712Z">
+        <seg>Ethan Winters lo descubre tras unos minutos de poner los pies en esta aldea desolada a los pies de un castillo medieval.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finding a balance between those two aspects to produce RE4's sound is a difficult task, but that's the goal we, the sound team, set when we created the sound for this game.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T151811Z" creationid="mariaarpaperez" creationdate="20230516T151811Z">
@@ -1211,6 +1219,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not all monsters hide in the shadows.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T084604Z" creationid="snaxi" creationdate="20230531T084604Z">
+        <seg>No todos los monstruos se esconden en las sombras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Of that, some of it is music remade while keeping the original concept.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175710Z" creationid="mariaarpaperez" creationdate="20230516T175710Z">
@@ -1551,6 +1567,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T160018Z" creationid="mariaarpaperez" creationdate="20230516T160018Z">
         <seg>El sonido real de un disparo es bastante frío y metálico, por lo que si lo recreas tal cual en un juego, la experiencia del juego no te resulta agradable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sun has barely burned off the morning mist when ravenous, fang-toothed horrors attack him.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T084817Z" creationid="snaxi" creationdate="20230531T084817Z">
+        <seg>El sol apenas ha disipado la niebla matutina cuando unos horrores voraces y con colmillos le atacan.</seg>
       </tuv>
     </tu>
     <tu>
