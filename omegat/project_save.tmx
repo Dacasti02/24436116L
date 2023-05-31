@@ -1933,6 +1933,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When I wasn’t battling tooth and claw for my life, I was scanning every room from floor to ceiling, looking for more ammo, healing items, and other valuable tools.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230531T091514Z" creationid="snaxi" creationdate="20230531T091514Z">
+        <seg>Cuando no estaba luchando con uñas y dientes por mi vida, escudriñaba cada habitación desde el suelo hasta el techo, buscando más munición, objetos curativos y otras herramientas valiosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When he aimed, you looked directly over his right shoulder.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230518T100854Z" creationid="david" creationdate="20230516T141328Z">
