@@ -738,8 +738,8 @@
       <tuv lang="en">
         <seg>Even so, when I hit the start button on this 2023 remake of the legendary 2005 action-horror game I wasn’t prepared for how forcefully it would knock my knees out from under me and &lt;t4/&gt;suplex&lt;t5/&gt; me headfirst into 16 hours of sustained tension and exhilaration.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T140416Z" creationid="snaxi" creationdate="20230601T140416Z">
-        <seg>Aun así, cuando presioné el botón de inicio de este remake de 2023 del legendario juego de acción y terror de 2005, no estaba preparado para lo contundentemente que me dejaría sin fuerzas y me &lt;t4/&gt;lanzaría&lt;t5/&gt; de cabeza a 16 horas de tensión y emoción sostenida.</seg>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T141457Z" creationid="snaxi" creationdate="20230601T140416Z">
+        <seg>Aun así, cuando presioné el botón de inicio de este remake de 2023 del legendario juego de acción y terror de 2005, no estaba preparado para la manera contundente en la que me dejaría sin fuerzas y me &lt;t4/&gt;lanzaría&lt;t5/&gt; de cabeza a 16 horas de tensión y emoción sostenida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,6 +1034,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T185734Z" creationid="mariaarpaperez" creationdate="20230516T185734Z">
         <seg>¿Es divertido meterse con los jugadores mediante el sonido?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, considering it came out back when we assumed that Episode III would be the last Star Wars film and iPhones didn’t even exist yet, I should probably give it some context.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T141625Z" creationid="snaxi" creationdate="20230601T141625Z">
+        <seg>Sin embargo, considerando que salió cuando creíamos que el Episodio III sería la última película de Star Wars y los iPhones ni siquiera existían, probablemente debería darle algo de contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1930,6 +1938,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T151115Z" creationid="mariaarpaperez" creationdate="20230519T151115Z">
         <seg>El sistema multijugador es muy bueno, y el diseño de sonido también está muy bien hecho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The original Resident Evil 4 is a landmark installment in Capcom’s seminal survival-horror series that, for many, would need no introduction.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T141549Z" creationid="snaxi" creationdate="20230601T141549Z">
+        <seg>Resident Evil 4 original es una entrega emblemática en la saga seminal de “survival-horror” de Capcom que, para muchos, no necesitaría presentación. </seg>
       </tuv>
     </tu>
     <tu>
