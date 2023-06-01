@@ -1542,6 +1542,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>None of this will shock you if you never played the original, but trust me, it’s a big deal to those of us who are back for round two: the rough edges of a number of other interactions have been filed down, like how crates and barrels can be quickly smashed at the tap of a button rather than having to clumsily line up a knife swing, making it much faster to scramble for ammo and health pickups in the heat of a battle.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T143231Z" creationid="snaxi" creationdate="20230601T143231Z">
+        <seg>Nada de esto te sorprenderá si nunca jugaste el original, pero créeme, es algo importante para aquellos de nosotros que volvemos para la segunda ronda: se han limado los bordes ásperos de varias interacciones, como la forma en que las cajas y barriles pueden ser rápidamente destrozados con solo presionar un botón en lugar de tener que alinear torpemente un golpe de cuchillo, lo que hace que sea mucho más rápido buscar munición y objetos de salud en pleno fragor de una batalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not all monsters hide in the shadows.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090309Z" creationid="snaxi" creationdate="20230531T084604Z">
@@ -1754,6 +1762,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T141939Z" creationid="mariaarpaperez" creationdate="20230516T141939Z">
         <seg>El director y compositor de sonido de Resident Evil 4 analizan la inquietante banda sonora de la nueva versión - Game Informer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resident Evil 4's original DNA has been extracted, &lt;t0/&gt;synthesised&lt;t1/&gt;, and injected into a state-of-the-art host game, mutating it into a menacing new monster.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T143052Z" creationid="snaxi" creationdate="20230601T143052Z">
+        <seg>El ADN original de Resident Evil 4 ha sido extraído, &lt;t0/&gt;sintetizado&lt;t1/&gt; e inyectado en un juego anfitrión de última generación, mutándolo en una nueva y amenazante criatura.</seg>
       </tuv>
     </tu>
     <tu>
