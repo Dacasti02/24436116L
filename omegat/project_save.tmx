@@ -223,6 +223,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;A &lt;t1/&gt;wise&lt;t2/&gt; &lt;t3/&gt;choice&lt;t4/&gt;, mate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T151627Z" creationid="snaxi" creationdate="20230601T151627Z">
+        <seg>&lt;t0/&gt;Una &lt;t1/&gt;sabia&lt;t2/&gt; &lt;t3/&gt;elección&lt;t4/&gt;, forastero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A handful of other adversaries – such as a meme mistress Lady Dimitrescu – relentlessly hound Ethan throughout the game, much like RE 2’s Mr. X. You never know when one of these villains will stroll around a corner, which creates a palpable tension, but these sequences always eventually resolved themselves in an epic, resource-draining boss battle.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230531T091419Z" creationid="snaxi" creationdate="20230531T091419Z">
@@ -1818,6 +1826,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230601T150329Z" creationid="snaxi" creationdate="20230601T150329Z">
         <seg>Una cosa que aprecio especialmente del mercader de la nueva versión es que es mucho más generoso en lo que respecta al precio de intercambio de tus armas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the most relentlessly exciting Resident Evil adventure of all time that’s been rebuilt, refined, and realised to the full limits of its enormous potential.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T151501Z" creationid="snaxi" creationdate="20230601T151501Z">
+        <seg>Sólo la aventura de Resident Evil más implacablemente emocionante de todos los tiempos, reconstruida, refinada y llevada al límite de su enorme potencial.</seg>
       </tuv>
     </tu>
     <tu>
