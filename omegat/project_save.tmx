@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(‘Standard’ and ‘Assisted’ modes are included if you want an easier time of it.) The added benefits of the knife are balanced by the fact that it takes damage with each use, so you can only rely on it sparingly – otherwise it will break like a tiny Master Sword and must be repaired at a merchant before you can resume stabbing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T143440Z" creationid="snaxi" creationdate="20230601T143440Z">
+        <seg>(Se incluyen los modos "Estándar" y "Asistido" si prefieres una experiencia más fácil). Los beneficios adicionales del cuchillo están equilibrados por el hecho de que se daña con cada uso, por lo que solo puedes depender de él de manera limitada; de lo contrario, se romperá como una pequeña Espada Maestra y deberá ser reparado en un comerciante antes de que puedas volver a apuñalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Resident Evil Village’s&lt;/a0&gt; opening hour establishes an incredibly tense tone, weaving together moody, atmospheric horror with rollercoaster firefights that leave Ethan within an inch of his life.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230531T084953Z" creationid="snaxi" creationdate="20230531T084953Z">
@@ -1494,6 +1502,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Meanwhile, enemies move in dangerously erratic ways and have a tendency to quickly overwhelm in numbers, so you still have to make snap decisions when it comes to &lt;t0/&gt;prioritising&lt;t1/&gt; targets.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T143534Z" creationid="snaxi" creationdate="20230601T143534Z">
+        <seg>Mientras tanto, los enemigos se mueven de manera peligrosamente errática y tienen tendencia a abrumarte rápidamente en grandes cantidades, por lo que aún debes tomar decisiones rápidas cuando se trata de &lt;t0/&gt;priorizar&lt;t1/&gt; objetivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moderately High</seg>
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230531T094700Z" creationid="snaxi" creationdate="20230531T094700Z">
@@ -1770,6 +1786,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230518T101016Z" creationid="david" creationdate="20230516T142029Z">
         <seg>Resident Evil 4 cambió la forma de la industria del videojuego..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resident Evil 4 may well give you a more expansive toolset to aid Leon’s survival, but you still need to keep your wits and reflexes sharp – because losing your head amidst a crowd crawling with a murderous mind-controlling parasite can swiftly result in Leon literally losing his.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T143723Z" creationid="snaxi" creationdate="20230601T143723Z">
+        <seg>Resident Evil 4 puede brindarte un conjunto de herramientas más amplio para ayudar en la supervivencia de Leon, pero aún debes mantener tu ingenio y reflejos agudos, porque perder la cabeza en medio de una multitud infectada con un parásito controlador de mentes puede resultar rápidamente en que Leon pierda la suya literalmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2146,6 +2170,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230531T090602Z" creationid="snaxi" creationdate="20230531T090549Z">
         <seg>Estos lugares son el telón de fondo perfecto para una serie de encuentros espeluznantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They’ve also learnt a few cunning new tricks to trip you up with, like the sneaky way the homicidal villagers will lay down bear traps in the middle of a fight to keep you on your toes while you’re busy flexing your trigger finger.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T143658Z" creationid="snaxi" creationdate="20230601T143658Z">
+        <seg>También han aprendido algunos nuevos trucos astutos para confundirte, como la forma sigilosa en que los aldeanos homicidas colocarán trampas para osos en medio de una pelea para mantenerte alerta mientras estás ocupado apretando el gatillo.</seg>
       </tuv>
     </tu>
     <tu>
