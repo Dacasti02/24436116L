@@ -1430,6 +1430,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Just as you’re comfortably pulling off headshots, they start wearing helmets to force you to target their legs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T144043Z" creationid="snaxi" creationdate="20230601T144043Z">
+        <seg>Justo cuando estás cómodamente disparando a la cabeza, comienzan a usar cascos para obligarte a apuntar a sus piernas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lately, some things that I've seen where the music impressed me was, well, maybe it's not so recent, but &lt;e1&gt;Tenet&lt;/e1&gt; and a drama series called &lt;e2&gt;Dark&lt;/e2&gt;, which has a really great opening track.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230519T135339Z" creationid="mariaarpaperez" creationdate="20230519T135339Z">
@@ -1562,6 +1570,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T153554Z" creationid="mariaarpaperez" creationdate="20230516T153439Z">
         <seg>No importa qué area sea, esta es la base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No matter what difficulty you choose, a major strength of Resident Evil 4 is that enemy types are continually shuffled so that you can never really settle into a one-size fits all strategy.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T144002Z" creationid="snaxi" creationdate="20230601T144002Z">
+        <seg>Sin importar la dificultad que elijas, una gran fortaleza de Resident Evil 4 es que los tipos de enemigos se van alternando constantemente, por lo que nunca puedes establecer una estrategia única para todos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1766,6 +1782,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Resident Evil 4 (2023) Review Screens</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T143933Z" creationid="snaxi" creationdate="20230601T143933Z">
+        <seg>Resident Evil 4 (2023) Pantallas de análisis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resident Evil 4 (Remake) Review</seg>
       </tuv>
       <tuv lang="es-ES" changeid="david" changedate="20230516T143843Z" creationid="david" creationdate="20230516T143843Z">
@@ -1954,6 +1978,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230531T093730Z" creationid="snaxi" creationdate="20230531T093730Z">
         <seg>Afortunadamente, la acción amplificada de Village no disminuye su componente de terror.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thankfully, a new checkpoint save system &lt;t2/&gt;minimises&lt;t3/&gt; any arduous backtracking from your last manual typewriter save should Leon perish – but purists should take note that the unlockable Professional difficulty mode removes that safety net if you prefer a more punishing run the next time through.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T143819Z" creationid="snaxi" creationdate="20230601T143819Z">
+        <seg>Afortunadamente, un nuevo sistema de guardado en puntos de control &lt;t2/&gt;minimiza&lt;t3/&gt; cualquier tedioso retroceso desde el último guardado en una máquina de escribir manual si Leon perece, pero los puristas deben tener en cuenta que el modo de dificultad desbloqueable "Profesional" elimina esa red de seguridad si prefieres una experiencia más desafiante en tu próxima partida.</seg>
       </tuv>
     </tu>
     <tu>
