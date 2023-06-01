@@ -1070,6 +1070,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He also pays the bounties on the optional side quests that have been added throughout the campaign, like shooting down hidden blue medallions or tracking down a rare golden chicken egg, which proved to be fun little diversions away from the story’s murderous main path.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T150141Z" creationid="snaxi" creationdate="20230601T150141Z">
+        <seg>También paga las recompensas de las misiones secundarias opcionales que se han agregado a lo largo de la campaña, como derribar medallones azules ocultos o rastrear un raro huevo de pollo dorado, lo cual resultó ser pequeñas y divertidas distracciones fuera del camino principal asesino de la historia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How did you create the sound of the las plaga exploding from a Ganado neck?</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T180429Z" creationid="mariaarpaperez" creationdate="20230516T180429Z">
@@ -2078,6 +2086,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Stranger's Things</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T150020Z" creationid="snaxi" creationdate="20230601T150020Z">
+        <seg>Cosas de forasteros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thankfully, Village’s amplified action doesn’t diminish its horror.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="snaxi" changedate="20230531T093730Z" creationid="snaxi" creationdate="20230531T093730Z">
@@ -2242,6 +2258,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T175613Z" creationid="mariaarpaperez" creationdate="20230516T175613Z">
         <seg>El otro 70% es nuevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The pacing of Leon’s plight never gets bogged down in the sort of &lt;t0/&gt;storytime&lt;t1/&gt; stroll that’s become so common in a lot of big-budget single-player adventures.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T145954Z" creationid="snaxi" creationdate="20230601T145954Z">
+        <seg>El ritmo de la angustia de Leon nunca se estanca en el tipo de paseo &lt;t0/&gt;narrativo&lt;t1/&gt; que se ha vuelto tan común en muchas grandes aventuras para un solo jugador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2658,6 +2682,14 @@ Se trata de un shooter a un ritmo lento, pero la tensión sigue siendo increíbl
       </tuv>
       <tuv lang="es-ES" changeid="mariaarpaperez" changedate="20230516T172148Z" creationid="mariaarpaperez" creationdate="20230516T172148Z">
         <seg>Cuando el proyecto empezó, primero puse la original otra vez y después analicé qué tipo de enfoque tenía y por qué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you do need to take a breather, the mysterious merchant returns to keep Leon topped up with a suite of dangerous devices like a quaint form of Q Branch, along with new recipes that allow you to craft the exact ammo types you want when out in the world rather than having to rely on &lt;t0/&gt;randomised&lt;t1/&gt; drops.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="snaxi" changedate="20230601T150105Z" creationid="snaxi" creationdate="20230601T150053Z">
+        <seg>Cuando necesitas tomar un respiro, el misterioso mercader regresa para mantener a Leon abastecido con una variedad de dispositivos peligrosos, como una forma peculiar de la rama Q, junto con nuevas recetas que te permiten fabricar los tipos exactos de munición que deseas cuando estás en el mundo, en lugar de depender de caídas &lt;t0/&gt;aleatorias&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
